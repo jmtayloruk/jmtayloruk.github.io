@@ -125,6 +125,8 @@ navigation_header:
   url: /
 - title: Elements
   url: /elements/
+- title: Join us
+  url: /joining/
 - title: Blog
   url: /blog/
 - title: Categories
@@ -138,7 +140,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/jtimaging
-#  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  Google Scholar: https://scholar.google.com/citations?user=Wv6f8ncAAAAJ
 #  GitHub: https://github.com/jmtayloruk
 #  link: https://darn.es
 #  RSS: /feed.xml
