@@ -2,7 +2,7 @@
 title: Version control for one
 categories:
 - tools
-<!-- feature_image: "https://picsum.photos/2560/600?image=872" -->
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 There are plenty of articles out there about [how to use version control tools like git](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668), and [why they are useful for teams working on the same code](https://www.atlassian.com/git/tutorials/why-git#git-for-developers).
