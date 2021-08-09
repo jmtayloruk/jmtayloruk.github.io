@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 There are plenty of articles out there about [how to use version control tools like git](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668), and [why they are useful for teams working on the same code](https://www.atlassian.com/git/tutorials/why-git#git-for-developers).
-There doesn't seem to be much that makes the case for using version control when you are just writing your own code and maybe don't expect anyone else to work on it with you, or to share it with anybody else.
+There doesn't seem to be much that makes the case for using version control when you are just writing your own code and maybe don't expect to work with anyone else on it, or to share it with anybody else.
 This post describes the benefits of version control even when it's just you.
 
 ## What is version control?
