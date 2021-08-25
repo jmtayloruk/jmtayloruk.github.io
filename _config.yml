@@ -61,11 +61,11 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Occasional blog posts # Needed for Siteleaf
+    title: Occasional articles and notes # Needed for Siteleaf
     output: true
     #description: "Occasional posts" # The post list page content
-    feature_text: |
-      Welcome to the blog
+#    feature_text: |
+#      Occasional articles and notes on various topics
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -121,9 +121,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
+- title: Research
+  url: /research/
 - title: Join us
   url: /joining/
-- title: Blog
+- title: Notes
   url: /blog/
 - title: Categories
   url: /categories/

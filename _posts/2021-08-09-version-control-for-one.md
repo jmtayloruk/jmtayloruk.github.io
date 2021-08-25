@@ -6,9 +6,10 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 image: "/assets/searching-documents-test-image.jpg"
 ---
 
-There are plenty of articles out there about [how to use version control tools like git](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668), and [why they are useful for teams working on the same code](https://www.atlassian.com/git/tutorials/why-git#git-for-developers).
-There doesn't seem to be much that makes the case for using version control when you are just writing your own code and maybe don't expect to work with anyone else on it, or to share it with anybody else.
-This post describes the benefits of version control even when it's just you.
+This post makes the case for using version control when you are just writing your own code and maybe don't expect to work with anyone else on it, or to share it with anybody else.
+There are plenty of articles out there about [how to use version control tools like git](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668),
+and [why they are useful for teams working on the same code](https://www.atlassian.com/git/tutorials/why-git#git-for-developers).
+I don't know of any articles explaining why version control is valuable even when it's just you. This post aims to do that.
 
 ## What is version control?
 
@@ -125,7 +126,7 @@ By using [stashing](https://git-scm.com/docs/git-stash#_examples) (`git stash; g
 Git is generally pretty good at *merging* changes, so your local changes to one file can often be folded in seamlessly with "upstream" changes made on another computer.
 I can't believe I went through my whole PhD (before I discovered `git`) doing manual merges to keep two computers in sync...
 
-## Big changes
+## Project-managing big changes
 If you're working on a more ambitious long-term project, sooner or later you'll find yourself thinking about making a dramatic restructure or rethink of your code.
 But that takes time, and you probably don't want to completely break your code while you work on that.
 You probably still want to be able to use your code for calculations in the meantime.
@@ -142,7 +143,7 @@ I am not aware of a good universal solution to this problem. My best suggestion 
 If you're in the habit of consulting `git difftool` before you commit - which you should be - then you will immediately spot if you forget to do this.
 Some diff-viewing programs (including Visual Studio Code) will let you filter out any changes to the output, to make it easier to identify changes to the *code* in your notebook.
 
-## Installing `git`
+## Installing git
 
 Personally I use `git` from the command line. That's not everyone's preference, but it does give you clear control - and hopefully understanding - of what you are doing. It also means you can start simple, just using a repertoire of a few commands that do the basics you need. This post isn't intended as a tutorial for installing `git`, but [there is guidance here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
