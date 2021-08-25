@@ -5,7 +5,8 @@ feature_text: |
   
   My research sits at the interface between physics and biology, using optical and computational innovations to develop new imaging and measurement techniques that will permit enhanced understanding of biological systems.
 
-feature_image: "{{site.baseurl}}/assets/Heart-Matters-8105676-crop.jpg"
+#feature_image: "{{site.baseurl}}/assets/Heart-Matters-8105676-crop.jpg"
+feature_image: "https://jmtayloruk.github.io/assets/Heart-Matters-8105676-crop.jpg"
 ---
 
 I am a senior lecturer in Physics at Glasgow University, leading a team of researchers embedded within the wider [Imaging Concepts Group](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/) which consists of three academic PIs.
@@ -26,7 +27,7 @@ All of these issues prevent high-resolution 3D imaging and dramatically degrade 
 Most microscope imaging techniques require serial plane-by-plane acquisition, and if the sample is moving then the sequence of planes will not represent a self-consistent snapshot representation of the sample.
 For example, when imaging the beating heart, one plane might be acquired in systole and another in diastole.
 
-{% include figure.html image="/assets/heart_sync_trabeculation_MIP_magenta_crop_still.png" alt="Heartbeat-synchronized image" position="right" width="400" height="450" %}
+{% include figure.html image="/assets/heart_sync_trabeculation_MIP_magenta_crop_still.png" alt="Heartbeat-synchronized image" position="right" width="300" height="338" %}
 
 We have developed techniques to computationally "freeze" periodic motion such as the heartbeat, enabling us to acquire [high-resolution 3D snapshot images](https://doi.org/10.1364/BOE.3.003043) of the unperturbed beating zebrafish heart.
 By developing algorithms to maintain that "phase lock" even in the face of dramatic developmental changes, we are able to [sustain time-lapse imaging for 24 hours or more](https://doi.org/10.1038/s41467-019-13112-6).
