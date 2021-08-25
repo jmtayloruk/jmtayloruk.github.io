@@ -34,10 +34,10 @@ and an EPSRC Doctoral Prize Fellow.
 
 ### Coming to Scotland
 
-Glasgow is located on the beautiful west coast of Scotland.
-It has a thriving cultural scene, and is a great city to be based in for access to the outdoors.
+Scotland is a friendly and welcoming country, with Glasgow being located on the beautiful west coast.
+Glasgow has a thriving cultural scene, and is a great city to be based in for access to the outdoors, with a very affordable cost of living.
 [Hiking](https://www.muchbetteradventures.com/magazine/hiking-in-scotland-11-of-the-best-hikes-in-the-country),
 [mountain biking](https://www.visitscotland.com/see-do/active/mountain-biking), 
 [sea kayaking](https://www.wildernessscotland.com/blog/top-10-scottish-sea-kayaking-spots)
-and [mountaineering](https://www.ellis-brigham.com/news-and-blogs/25-scottish-winter-classics) are just some of the activities that many of our group members enjoy.
+and [mountaineering](https://www.ellis-brigham.com/news-and-blogs/25-scottish-winter-classics) are just some of the activities that some our group members enjoy.
 Scotland's mountains are small by global standards, but are wild and remote, and [liberal land access laws](https://en.wikipedia.org/wiki/Scottish_Outdoor_Access_Code) mean you can go basically anywhere you want!

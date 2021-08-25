@@ -3,6 +3,7 @@ title: Version control for one
 categories:
 - tools
 feature_image: "https://picsum.photos/2560/600?image=872"
+image: "/assets/searching-documents-test-image.jpg"
 ---
 
 There are plenty of articles out there about [how to use version control tools like git](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668), and [why they are useful for teams working on the same code](https://www.atlassian.com/git/tutorials/why-git#git-for-developers).
@@ -37,13 +38,15 @@ or on the command line on [Linux/Mac OS](https://git-scm.com/book/en/v2/Getting-
 So, you write and save your code in whatever editor you would normally use for that, but when you are ready to *commit* a version of your work,
 you use either your `git` GUI program or the command line to perform that task.
 
+At the end of this post I say a bit more about options for installing `git` on your computer.
+
 A couple of bits of basic terminology to help orient yourself with this and other articles about version control:
 
 - **repository**: a directory containing the code (and other files) for a self-contained project you are working on. `git` will keep track of the changes that take place within your repository.
 You can have more than one repository; `git` will treat them as completely independent projects.
 - **commit** (noun): a checkpoint for your code, where you have made a conscious decision to save a version your code in its current state, after you have made some changes. Each commit is retained forever as part of the **history** of your repository. 
 - **commit** (verb): the act of saving a new version of your code as a commit to the repository.
-- **remote repository**: a site "in the cloud" (e.g. [github.com]) that stores a mirror copy of your repository.  
+- **remote repository**: a site "in the cloud" (e.g. [github.com](https://github.com)) that stores a mirror copy of your repository.  
 
 ## Typical workflow
 
@@ -85,17 +88,17 @@ On Linux or Windows, I recommend [diffmerge](http://www.sourcegear.com/diffmerge
 ## True backup history
 
 Because `git` keeps a record of every commit you make, you can browse back through - or revert to - any previous version of your files if you wish.
-But you can do more than that. You can jump back and forth through history ([`git checkout <hash>`](https://git-scm.com/docs/git-checkout#_examples)).
+But you can do more than that. You can [jump back and forth through history](https://git-scm.com/docs/git-checkout#_examples) ([`git checkout <hash>`](https://git-scm.com/docs/git-checkout)).
 Making changes to a paper now you've got the reviewers' comments back? 
 Maybe you've been improving your code in the meantime, but now you can't replot the graph from the paper because you've changed the code?
 You can `git checkout` the version of the code you committed at the time, or even [go back to a specific date](https://stackoverflow.com/questions/6990484/how-to-checkout-in-git-by-date).
 
 What if you realise your code is not working for scenario X? You know it used to work, you haven't looked at scenario X for six months, and you've inadvertantly broken *something* in the interim. But what was it!?
 In the worst case, you can go back and forth through your commit history and figure out which commit broke it.
-You can do that using a manual [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm), or let git help you using [`git bisect`](https://git-scm.com/docs/git-bisect).
+You can do that using a manual [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm), or [let git help you](https://git-scm.com/docs/git-bisect) using [`git bisect`](https://git-scm.com/docs/git-bisect).
 The binary search has saved my bacon a few times.
 
-Want to figure out when and why you wrote a line of code? `git blame` is traditionally used to find out "whose fault" a particular line of code is, but it's useful even if you're the only author.
+Want to figure out when and why you wrote a line of code? [`git blame`](https://git-scm.com/docs/git-blame) is traditionally used to find out "whose fault" a particular line of code is, but it's useful even if you're the only author.
 If you're staring at a line of code and can't work out why it's there, `git blame` will tell you when you wrote it, and which commit it was written as part of.
 Especially if you've written informative comments alongside your commits, that may help you figure out the purpose of that particular piece of code!
 
@@ -106,7 +109,7 @@ That historical record is near-indelible: it would be technically very difficult
 ## Cloud backup
 
 Laptop stolen? Computer gone up in flames? Hopefully you have a physically separated backup of the contents of your hard drive! 
-At least your code should be safe either way though: as long as you `git push` a copy of your code to a remote repository like [github.com] there is always a backup of your repository in the cloud.
+At least your code should be safe either way though: as long as you `git push` a copy of your code to a remote repository like [github.com](https://github.com) there is always a backup of your repository in the cloud.
 Even if your computer dies, you always have a remote copy of your code.
 
 Note that you can use github but still set your repository to be "private" so it's only accessible to you, using your user credentials.
@@ -137,6 +140,13 @@ But there's one catch to watch out for. Every time you *run* a notebook, the con
 If you commit your .ipynb file including that output, it can make it very difficult to use `git difftool` to see changes from one commit to the next.
 I am not aware of a good universal solution to this problem. My best suggestion is just to "restart and clear output" in your notebook (and save it), before you `git commit` your changes.
 If you're in the habit of consulting `git difftool` before you commit - which you should be - then you will immediately spot if you forget to do this.
+Some diff-viewing programs (including Visual Studio Code) will let you filter out any changes to the output, to make it easier to identify changes to the *code* in your notebook.
+
+## Installing `git`
+
+Personally I use `git` from the command line. That's not everyone's preference, but it does give you clear control - and hopefully understanding - of what you are doing. It also means you can start simple, just using a repertoire of a few commands that do the basics you need. This post isn't intended as a tutorial for installing `git`, but [there is guidance here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+Others prefer to use `git` by [clicking buttons in one of many available GUI programs](https://git-scm.com/downloads/guis). In fact, if you are already using [Visual Studio Code](https://code.visualstudio.com) as your development environment then [you have built-in access to version control](https://code.visualstudio.com/docs/editor/versioncontrol). [Matlab can also integrate with version control](https://uk.mathworks.com/help/matlab/source-control.html). However, these environments (and their tutorials) tend to assume you are already very familiar with the terminology and processes of version control, and would probably be rather overwhelming to a first-timer. For that reason I probably wouldn't recommend using these for your first taste of version control.
 
 ## Conclusion
 Use version control! If you're writing anything more than completely trivial code, I can guarantee you won't regret investing time to learn the basics of `git`.  
