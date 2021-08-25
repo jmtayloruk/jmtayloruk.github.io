@@ -3,7 +3,7 @@ title: Version control for one
 categories:
 - tools
 feature_image: "https://picsum.photos/2560/600?image=872"
-image: "{{site.baseurl}}/assets/searching-documents-test-image.jpg"
+image: "https://jmtayloruk.github.io/assets/searching-documents-test-image.jpg"
 ---
 
 This post makes the case for using version control when you are just writing your own code and maybe don't expect to work with anyone else on it, or to share it with anybody else.
