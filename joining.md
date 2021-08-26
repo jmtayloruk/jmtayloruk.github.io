@@ -6,7 +6,8 @@ feature_text: |
   I always welcome email enquiries from people whose research interests overlap with my own. 
   Previous lab members have gone on to a permanent academic post, to postdoctoral research, and to industry.
 
-feature_image: "https://jmtayloruk.github.io/assets/Zebrafish_group-dimmed.jpeg"
+feature_image: "/assets/img/Zebrafish_group-dimmed.jpeg"
+#feature_image: "https://jmtayloruk.github.io/assets/Zebrafish_group-dimmed.jpeg"
 ---
 
 
