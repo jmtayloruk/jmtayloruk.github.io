@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  Jonathan Taylor's personal research page
+  Jonathan Taylor's personal research pages
 feature_image: "/assets/img/Heart-Matters-8105676-crop-dimmed.jpg"
 ---
 I am a senior lecturer in Physics at Glasgow University, leading a team of researchers embedded within the wider [Imaging Concepts Group](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/).

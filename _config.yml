@@ -148,6 +148,11 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
   facebook: "#3B5998"
   Email: true
 
+# Apparently this enables internal links within a page
+kramdown:
+  auto_ids: true
+
+
 # Load custom fonts from fonts.google.com etc
 #
 # TIP: Try to keep the number of urls as low to reduce the performance cost

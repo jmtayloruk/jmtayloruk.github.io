@@ -1,5 +1,5 @@
 ---
-title: About my research
+title: About me
 feature_text: |
   ## Research interests
   
@@ -12,11 +12,12 @@ feature_image: "/assets/img/Heart-Matters-8105676-crop-dimmed.jpg"
 I am a senior lecturer in Physics at Glasgow University, leading a team of researchers embedded within the wider [Imaging Concepts Group](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/) which consists of three academic PIs.
 My research group develops novel optical microscopy techniques, with a particular interest in the intersection of light sheet microscopy, computational imaging, and in vivo biology.
 Live organisms and cells are often moving (on various length scales), and much of our research is directed at overcoming problems caused by that motion, or developing better ways to measure it when the motion itself is of scientific interest.
+A key highlight of my recent research is my development of [heartbeat-synchronized imaging](#motion-stabilised-imaging) to enable long-term timelapse imaging in the beating heart itself. 
 
-Some of the questions I am currently interested in include:
+Some of the research questions and challenges I am currently interested in include:
 - Can we make imaging systems sufficiently motion-tolerant to permit advanced techniques such as structured illumination microscopy and 3D deconvolution *in vivo* in the beating heart?
 - Can our imaging and flow measurement tools help unravel the biomechanical coupling between heart structure, flow and electrophysiology?
-- How do we make our advanced motion-stabilisation technologies available to as many labs as possible?  
+- How do we support as many labs as possible to access our advanced motion-stabilisation technologies?  
 - How can we best exploit the relationship between information, measurements and imaging?
 - How can we rethink the imaging & analysis pipeline, improving it by building in knowledge of physical models and expectation at an early stage?
 
