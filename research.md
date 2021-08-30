@@ -1,11 +1,11 @@
 ---
-title: Research
+title: About my research
 feature_text: |
   ## Research interests
   
   My research sits at the interface between physics and biology, using optical and computational innovations to develop new imaging and measurement techniques that will permit enhanced understanding of biological systems.
 
-feature_image: "/assets/img/Heart-Matters-8105676-crop.jpg"
+feature_image: "/assets/img/Heart-Matters-8105676-crop-dimmed.jpg"
 #feature_image: "https://jmtayloruk.github.io/assets/Heart-Matters-8105676-crop-dimmed.jpg"
 ---
 
@@ -20,6 +20,9 @@ Some of the questions I am currently interested in include:
 - How can we best exploit the relationship between information, measurements and imaging?
 - How can we rethink the imaging & analysis pipeline, improving it by building in knowledge of physical models and expectation at an early stage?
 
+Outside work, I enjoy spend my time exploring the mountains of Scotland on foot, and rock climbing.
+I am a volunteer member of [Lomond Mountain Rescue Team](https://www.lomondmrt.org.uk), assisting lost, ill or injured walkers and climbers in the nearby mountains.
+
 ### Motion-stabilised imaging
 
 Research into organ-level development and function is confounded by motion artefacts, originating from the heartbeat, breathing motion, and pulsatile blood vessels.
@@ -32,7 +35,7 @@ For example, when imaging the beating heart, one plane might be acquired in syst
 We have developed techniques to computationally "freeze" periodic motion such as the heartbeat, enabling us to acquire [high-resolution 3D snapshot images](https://doi.org/10.1364/BOE.3.003043) of the unperturbed beating zebrafish heart.
 By developing algorithms to maintain that "phase lock" even in the face of dramatic developmental changes, we are able to [sustain time-lapse imaging for 24 hours or more](https://doi.org/10.1038/s41467-019-13112-6).
 This unlocks huge potential for biomedical research in the heart. Several recent publications have been driven by this unique ability to directly witness dynamic cellular processes within the beating heart.
-Thse have included [the cellular migrations driving trabeculation](https://doi.org/10.1038/s41467-019-13112-6), [understanding immune response to injury](https://doi.org/10.3389/fcell.2020.579943) and [the role of macrophages in cardiac regeneration](https://doi.org/10.3389/fcell.2020.579943).
+These have included [the cellular migrations driving trabeculation](https://doi.org/10.1038/s41467-019-13112-6), [understanding immune response to injury](https://doi.org/10.3389/fcell.2020.579943) and [the role of macrophages in cardiac regeneration](https://doi.org/10.3389/fcell.2020.579943).
 
 More background on the biomedical motivations behind our work can be found [in this British Heart Foundation supporters article](https://www.bhf.org.uk/heart-matters-magazine/research/3d-microscope).
 
