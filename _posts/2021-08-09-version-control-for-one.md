@@ -21,7 +21,7 @@ Using a tool like `git`, it just takes a few clicks to review and *commit* (i.e.
 along with information about what/why you made the changes/additions that you made.
 By doing this you build up a "tree" of commits that retains the full modification history of the files in your "repository" (a project you are working on).
 This probably works a bit differently from your OS's built-in backup system.
-WIth version control, a version is only committed when you decide to make that happen - it doesn't happen automatically at regular intervals like a backup.
+With version control, a version is only committed when you decide to make that happen - it doesn't happen automatically at regular intervals like a backup.
 But *every* version you commit will always be there for you to look back at - there is no culling of old backups.  
 Version control and backups therefore complement each other.
 
@@ -150,4 +150,8 @@ Personally I use `git` from the command line. That's not everyone's preference, 
 Others prefer to use `git` by [clicking buttons in one of many available GUI programs](https://git-scm.com/downloads/guis). In fact, if you are already using [Visual Studio Code](https://code.visualstudio.com) as your development environment then [you have built-in access to version control](https://code.visualstudio.com/docs/editor/versioncontrol). [Matlab can also integrate with version control](https://uk.mathworks.com/help/matlab/source-control.html). However, these environments (and their tutorials) tend to assume you are already very familiar with the terminology and processes of version control, and would probably be rather overwhelming to a first-timer. For that reason I probably wouldn't recommend using these for your first taste of version control.
 
 ## Conclusion
-Use version control! If you're writing anything more than completely trivial code, I can guarantee you won't regret investing time to learn the basics of `git`.  
+Use version control! If you're writing anything more than completely trivial code, I can guarantee you won't regret investing time to learn the basics of `git`. 
+Hopefully you're now asking "how do I start?".
+Here's [a good introductory walkthrough](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) on using `git` from the command line.
+You can probably skip the bit in the walkthrough about pull requests.
+That tutorial should give you all you need to get started, and then when you're ready you can read up about some of the slightly more advanced commands I've mentioned in this post. 
