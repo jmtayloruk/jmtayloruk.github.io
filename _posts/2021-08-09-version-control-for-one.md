@@ -152,6 +152,7 @@ Others prefer to use `git` by [clicking buttons in one of many available GUI pro
 ## Conclusion
 Use version control! If you're writing anything more than completely trivial code, I can guarantee you won't regret investing time to learn the basics of `git`. 
 Hopefully you're now asking "how do I start?".
-Here's [a good introductory walkthrough](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) on using `git` from the command line.
-You can probably skip the bit in the walkthrough about pull requests.
-That tutorial should give you all you need to get started, and then when you're ready you can read up about some of the slightly more advanced commands I've mentioned in this post. 
+Here's [a good introductory walkthrough](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) on using `git` from the command line. You can probably skip the bit in the walkthrough about pull requests.
+*(Edit:)* and here's a great one from Robert Haase on [using git with the click-and-run interface of Github Desktop](https://focalplane.biologists.com/2021/09/04/collaborative-bio-image-analysis-script-editing-with-git).
+
+Those tutorials should give you all you need to get started, and then when you're ready you can read up about some of the slightly more advanced commands I've mentioned in this post. 
