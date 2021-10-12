@@ -7,12 +7,12 @@ image: "https://jmtayloruk.github.io/assets/img/undraw_adventure_4hum.png"
 ---
 
 This post outlines how PhD study works in countries other than the UK.
-It follows on from previous posts that talk about [what PhD study looks like in a science subject in the UK, and how funding works]({% post_url 2021-10-10-phd-applications-how-does-it-work %}),
-and [how to go about finding the right project for you, and the application process]({% post_url 2021-10-11-phd-applications-applying %}).
 
 Although there is a lot of information out there about PhDs in general, it is often written with the aim of being relevant to any subject (physics, medieval literature, sociology...).
 This often results in a misleading picture of what a physics PhD looks like, so in this post I have tried to paint a more specific picture.
 
+It follows on from previous posts that talk about [what PhD study looks like in a science subject in the UK, and how funding works]({% post_url 2021-10-10-phd-applications-how-does-it-work %}),
+and [how to go about finding the right project for you, and the application process]({% post_url 2021-10-11-phd-applications-applying %}).
 
 ## PhD study outside the UK
 
@@ -38,7 +38,7 @@ how that places you in comparison with other applicants, depending on what count
 Some European funding bodies may require a standalone MSc research degree before you can undertake a PhD that is funded by them.
 
 Funding varies between countries, but PhD students in the sciences can expect some form of stipend or even a salary with employee benefits
-(see for example this [https://www.kuleuven.be/personeel/jobsite/en/phd/phd-information#working-conditions](rather complex breakdown) of salary and benefits at one Belgian institution).
+(see for example [this rather complex breakdown](https://www.kuleuven.be/personeel/jobsite/en/phd/phd-information#working-conditions) of salary and benefits at one Belgian institution).
 The stipend or salary level varies strongly from country to country and the source of funding.
 Universities might offer their own PhD studentships, often with the expectation that those students help with undergraduate teaching.
 Researchers with European Research Council (ERC) grants often have generous (and highly competitive) funded PhD positions available.
@@ -99,5 +99,5 @@ A downside is that it is not uncommon for funding to be secured in advance by yo
 It will be important that you clarify what the financial arrangements are for the project on offer, what the expectation is for funding the later years,
 what the contingencies are, etc.
 
-A viva exam is a *thesis defense* and a supervisor is a *thesis adviser*.
+In the USA, a viva exam is referred to as a *thesis defense* and a supervisor is a *thesis adviser*.
 

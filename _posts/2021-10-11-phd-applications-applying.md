@@ -6,11 +6,11 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 image: "https://jmtayloruk.github.io/assets/img/undraw_interview_rmcf.png"
 ---
 
-This post outlines how to go about finding the right PhD project for you, and the application process.
-It follows on from a previous post that talks about [what PhD study looks like in a science subject in the UK, and how funding works]({% post_url 2021-10-10-phd-applications-how-does-it-work %}).
-
+This post outlines how to go about finding the right PhD project for you, and the application process. 
 Although there is a lot of information out there about PhDs in general, it is often written with the aim of being relevant to any subject (physics, medieval literature, sociology...).
 This often results in a misleading picture of what a physics PhD looks like, so in this post I have tried to paint a more specific picture.
+
+It follows on from a previous post that talks about [what PhD study looks like in a science subject in the UK, and how funding works]({% post_url 2021-10-10-phd-applications-how-does-it-work %}).
 
 PhD study looks very different in different countries. This post is UK-focused (and physics-focused), but a subsequent post will look at [the differences in other countries]({% post_url 2021-10-12-phd-applications-overseas %}).
 

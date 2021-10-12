@@ -7,9 +7,10 @@ image: "https://jmtayloruk.github.io/assets/img/undraw_road_sign_mfpo.png"
 ---
 
 This post outlines what PhD study looks like in a science subject in the UK, and how funding works.
-A subsequent post will talk about [how to go about finding the right project for you, and the application process]({% post_url 2021-10-11-phd-applications-applying %}).
 Although there is a lot of information out there about PhDs in general, it is often written with the aim of being relevant to any subject (physics, medieval literature, sociology...).
 This often results in a misleading picture of what a physics PhD looks like, so in this post I have tried to paint a more specific picture.
+
+A subsequent post will talk about [how to go about finding the right project for you, and the application process]({% post_url 2021-10-11-phd-applications-applying %}).
 
 PhD study looks very different in different countries. This post is UK-focused (and physics-focused), but a subsequent post will look at 
 [the differences in other countries]({% post_url 2021-10-12-phd-applications-overseas %}).
