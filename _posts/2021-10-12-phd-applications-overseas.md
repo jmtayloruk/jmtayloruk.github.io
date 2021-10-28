@@ -85,10 +85,17 @@ Transitional arrangements may still be in place, and evolving, and it is importa
 ## USA
 
 PhD programmes in the US are significantly longer - often taking 5-7 years to complete.
-This may include more structured, taught content, and is likely to include a significant requirement for you to assist with teaching duties.
-Those teaching duties may form a notable component of your pay.
+They often include 1-2 years of structured, taught content, at the end of which you must pass exams to be able to progress
+on to the main part of your PhD research.
 
-The longer duration has upsides and downsides.
+There are different types of funding for PhDs. The funding may be described as a *teaching assistant* role,
+in which case you will receive a stipend to support your living costs in return for undertaking to contribute a specified number of hours
+of undergraduate teaching activities each month.
+Alternatively, a  *research assistant* role does not come with any requirement for you to carry out teaching duties alongside your PhD research.
+Since international student visas may well not permit you to work off-campus,
+you will need to ensure that your stipend will be sufficient to cover your living expenses.
+
+The longer duration of US PhDs has upsides and downsides:
 
 An upside is that you can expect to finish with more experience and journal publications,
 placing you at an advantage compared to your peers who have followed a shorter programme.

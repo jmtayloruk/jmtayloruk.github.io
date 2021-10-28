@@ -28,6 +28,8 @@ Contact me by early December; internal selection early January.
 Contact me by December; internal selection late January.
 - Non-UK applicants with a high-achieving undergraduate GPA are eligible for the College Scholarship scheme. Contact me by December; internal selection late January.
 
+I wrote some general guidance for prospective PhD applicants [here]({% post_url 2021-10-11-phd-applications-applying %})
+
 ### Prospective postdoctoral researchers
 
 I advertise funded postdoctoral vacancies on [jobs.ac.uk](https://www.jobs.ac.uk) as and when they become available.

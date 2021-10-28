@@ -1,5 +1,5 @@
 ---
-title: About me
+title: My research interests
 feature_text: |
   ## Research interests
   
