@@ -1,10 +1,9 @@
 ---
-title: Website under construction
+title: Jonathan Taylor’s personal research pages
 feature_text: |
-  ## Website under construction
-  Website under construction
+  ## Jonathan Taylor’s personal research pages
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Website under construction."
+excerpt: "Jonathan Taylor’s personal research pages"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
