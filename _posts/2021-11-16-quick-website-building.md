@@ -88,4 +88,5 @@ But if you do, github will still serve the pages for that domain. Just fill in t
 
 If you want to test your edits offline before `git push`ing them to the live site via github, you should be able to do this if you install Jekyll locally.
 Supposedly the instructions for that are [here](https://jekyllrb.com/docs/).
-That didn't work for me, so for now I'm happily sticking with the amateur method of checking changes on the live website.
+That didn't work for me, so for now I'm happily sticking with the amateur method of checking changes on the live website
+(even if that just means [the git history gets a bit messy!](https://github.com/jmtayloruk/jmtayloruk.github.io/commits/main/_posts/2021-11-16-quick-website-building.md))
