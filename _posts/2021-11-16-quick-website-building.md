@@ -58,7 +58,10 @@ To embed images in your pages, save them under "assets" and reference them like 
 ```
 
 A link is written like this:
-`[text to appear as the hyperlink](https://website.to.link/page/subpage.html)`
+``` html
+{% raw %}
+[text to appear as the hyperlink](https://website.to.link/page/subpage.html)
+```
 
 The file index.md is the content for your home page - customise this as you wish.
 At the top of the .md file you enter some information like the page title and banner image, then you just start writing.
