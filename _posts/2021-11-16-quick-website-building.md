@@ -61,6 +61,7 @@ A link is written like this:
 ``` html
 {% raw %}
 [text to appear as the hyperlink](https://website.to.link/page/subpage.html)
+{% endraw %}
 ```
 
 The file index.md is the content for your home page - customise this as you wish.
