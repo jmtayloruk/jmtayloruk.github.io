@@ -44,10 +44,6 @@ The key bits are:
 * Customise section 8 "Site navigation" to add additional pages to the manu bar of your website. Just add a url and write the equivalent .md file.
 * Customise "navigation_footer" to reflect the url at which your website is going to appear.
 * Customise "social_links" as you wish.
-* I added two lines of mysterious gibberish (look for "kramdown"[in here](https://github.com/jmtayloruk/jmtayloruk.github.io/blob/main/_config.yml))
-which is apparently necessary to be able to use internal links within a webpage.
-For example [this](#writing-blog-posts) links to the "writing blog posts" section of this webpage you are currently reading. 
-I achieved that by writing `#writing-blog-posts`, which matches the section heading except with spaces replaced by "-".
 
 If you want to see all the things I have customised, [look here](https://github.com/jmtayloruk/jmtayloruk.github.io/compare/c61eb64...main#files_bucket).
 
@@ -55,11 +51,12 @@ If you want to see all the things I have customised, [look here](https://github.
 
 Pages are written in [markdown](https://www.markdownguide.org/basic-syntax), which will be familiar to anyone working with e.g. Jupyter notebooks.
 To embed images in your pages, save them under "assets" and reference them like this:
-`{% include figure.html image="/assets/heart_sync_trabeculation_MIP_magenta_crop_still.png" alt="Heartbeat-synchronized image" position="right" width="300" height="338" %}`
+`{%` `include figure.html image="/assets/heart_sync_trabeculation_MIP_magenta_crop_still.png" alt="Heartbeat-synchronized image" position="right" width="300" height="338"` `%}`
 A link is written like this:
 `[text to appear as the hyperlink](https://website.to.link/page/subpage.html)`
 
-index.md is the home page - customise this as you wish. At the top of the .md file you enter some information like the page title and banner image, then you just start writing.
+The file index.md is the content for your home page - customise this as you wish.
+At the top of the .md file you enter some information like the page title and banner image, then you just start writing.
 [Take a look at the source file behind my own home page](https://github.com/jmtayloruk/jmtayloruk.github.io/blob/main/index.md).
 
 ## Writing blog posts
@@ -71,6 +68,12 @@ I mostly leave them as the theme default, as I don't have a good, quick source o
 I find [undraw.co](https://undraw.co) useful for quickly finding a vaguely relevant image to use for that.
 
 ## More advanced stuff
+
+Internal links within a webpage:  I added two lines of mysterious gibberish to my _config.yml file
+(look for "kramdown" [in here](https://github.com/jmtayloruk/jmtayloruk.github.io/blob/main/_config.yml))
+which is apparently necessary to be able to use internal links within a webpage.
+For example [this](#writing-blog-posts) links to the "writing blog posts" heading on this webpage you are currently reading. 
+I achieved that by writing a hyperlink to `#writing-blog-posts`, which matches the section heading except with spaces replaced by "-".
 
 If you want your own domain name for the website (rather than e.g. jmtaylor.github.io) then you normally have to pay a company to create it for you.
 But if you do, github will still serve the pages for that domain. Just fill in the "custom domain" setting under github Settings->Pages.
