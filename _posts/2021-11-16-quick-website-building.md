@@ -51,7 +51,12 @@ If you want to see all the things I have customised, [look here](https://github.
 
 Pages are written in [markdown](https://www.markdownguide.org/basic-syntax), which will be familiar to anyone working with e.g. Jupyter notebooks.
 To embed images in your pages, save them under "assets" and reference them like this:
-`{%` `include figure.html image="/assets/heart_sync_trabeculation_MIP_magenta_crop_still.png" alt="Heartbeat-synchronized image" position="right" width="300" height="338"` `%}`
+``` html
+{% raw %}
+{% include figure.html image="/assets/heart_sync_trabeculation_MIP_magenta_crop_still.png" alt="Heartbeat-synchronized image" position="right" width="300" height="338" %}
+{% endraw %}
+```
+
 A link is written like this:
 `[text to appear as the hyperlink](https://website.to.link/page/subpage.html)`
 
