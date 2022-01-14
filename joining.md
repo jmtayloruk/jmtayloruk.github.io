@@ -11,6 +11,8 @@ feature_text: |
 
 feature_image: "/assets/img/Zebrafish_group-dimmed.jpeg"
 #feature_image: "https://jmtayloruk.github.io/assets/Zebrafish_group-dimmed.jpeg"
+image: "https://jmtayloruk.github.io/assets/img/undraw_right_direction_tge8.png"
+
 ---
 
 
