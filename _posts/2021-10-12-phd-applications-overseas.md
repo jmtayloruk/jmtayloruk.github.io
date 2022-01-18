@@ -108,3 +108,6 @@ what the contingencies are, etc.
 
 In the USA, a viva exam is referred to as a *thesis defense* and a supervisor is a *thesis adviser*.
 
+[Here](https://armani.usc.edu/advice) you can find copious advice from an Engineering professor about applying to US PhD programmes (click on the "undergraduate" part).
+Remember that her advice is targeted at people applying for PhDs in the USA, and is *not* all transferrable to other countries (due to the differences in PhD programme structure and culture).
+

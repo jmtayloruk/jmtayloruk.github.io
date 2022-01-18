@@ -16,9 +16,9 @@ image: "https://jmtayloruk.github.io/assets/img/undraw_right_direction_tge8.png"
 ---
 
 
-## PhD projects available for an October 2021 start
+## PhD projects available for an October 2022 start
 
-I am anticipating funding for two PhD projects for an October 2021 start, in the field of smart microscopy, i.e. combining computational and optical techniques to develop microscopes that can adapt their behaviour based on what is happening inside the sample that is being imaged.
+I am anticipating funding for two PhD projects for an October 2022 start, in the field of smart microscopy, i.e. combining computational and optical techniques to develop microscopes that can adapt their behaviour based on what is happening inside the sample that is being imaged.
 The projects are suitable for a student with a strong first degree in the physical sciences, a good grounding in optical physics, and an aptitude for computer programming (our preferred language is Python).
 
 #### Beating-heart microscopy technologies for biomedical applications
