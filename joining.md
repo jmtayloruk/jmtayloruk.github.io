@@ -24,12 +24,12 @@ The projects are suitable for a student with a strong first degree in the physic
 #### Beating-heart microscopy technologies for biomedical applications
 
 In microscope imaging, the beating of the heart produces dramatic motion that swamps subtle effects in individual cells. This project will develop optical and computational technologies to enable imaging in the heart itself as effectively as if we could “freeze time” and look at a stationary object. Our new technologies will be based on advanced, novel computer algorithms combined with a detailed understanding of how the heart’s precise motion can vary over time. Our group has developed the concept of “prospective optical gating” (see references below) to deal with the constant motion of living samples being imaged. The successful PhD applicant will develop and apply new, more advanced algorithms based around the same target tracking strategies that underpin everything from space debris tracking to the GPS locator in your phone. This will enable us to predict and correct for complex motions such as those due to the combination of breathing and heartbeat, or in diseased hearts where motion is harder to predict.
-[More details here](https://www.findaphd.com/phds/project/beating-heart-microscopy-technologies-for-biomedical-applications/?p140634), or contact me for more info. 
+[More details here](https://www.findaphd.com/phds/project/developing-new-beating-heart-microscopy-technologies-for-biomedical-applications/?p141257), or contact me for more info. 
 
 #### Sample-Adaptive Smart Microscopy
 
 3D timelapse microscope imaging of biological samples is revolutionising biology, unlocking the ability to directly witness events such as cell-cell interactions whose location in time and space cannot be predicted in advance. Even more powerful would be the ability for a “smart microscope” to detect and respond to these events in real time without human intervention, for example activating high-resolution imaging in the local area of interest, or applying an external intervention such as photo-ablation targeting of a cell of interest.  The successful PhD candidate will develop an adaptive fluorescence microscopy system capable of observing a live specimen over a wide field of view for extended time periods, but then able to image specific events of interest at subcellular resolution. This hardware will be controlled using existing and newly-developed technologies for cell tracking and event detection in microscopy, to create a smart microscope platform for fully-automated timelapse study of live samples such as zebrafish. This will enable detection and monitoring of events such as immune cell interactions with damaged cells in zebrafish heart muscle, and the ability to selectively modulate these interactions by photo-ablation.
-[More details here](https://www.findaphd.com/phds/project/sample-adaptive-smart-microscopy/?p140635), or contact me for more info.
+[More details here](https://www.findaphd.com/phds/project/doctor-of-philosophy-phd-sample-adaptive-smart-microscopy-cairn-research-and-university-of-glasgow/?p119252), or contact me for more info.
 
 #### Environment and funding
 Both projects will involve close collaboration with an industrial partner (leading UK microscopy companies) as well as biomedical research collaborators seeking to use our techniques to further their own research studies.
@@ -50,7 +50,7 @@ I normally advertise PhD projects on [findaphd.com](https://www.findaphd.com) fr
 I may have one or more fully-funded projects available in any given year.
 
 There are also various scholarship routes available for a suitably-qualified applicant.
-In all these cases, applications must be made via the university, with varying deadlines, so you should contact me in the first instance to discuss this: 
+In all these cases, applications must be made via the university, with varying deadlines, so you should contact me well in advance to discuss this: 
 
 - Scottish-resident applicants with a strong first-class degree are eligible for the [Carnegie Trust PhD Scholarship scheme](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships)
 Contact me by early December; internal selection early January.
@@ -58,7 +58,9 @@ Contact me by early December; internal selection early January.
 Contact me by December; internal selection late January.
 - Non-UK applicants with a high-achieving undergraduate GPA are eligible for the College Scholarship scheme. Contact me by December; internal selection late January.
 
-I wrote some general guidance for prospective PhD applicants [here]({% post_url 2021-10-11-phd-applications-applying %})
+I wrote some general guidance for prospective PhD applicants [here]({% post_url 2021-10-11-phd-applications-applying %}).
+
+To submit a formal PhD application to the university, [use this link](https://www.gla.ac.uk/postgraduate/research/physicsastronomy/#tab=apply).
 
 ## Prospective postdoctoral researchers
 
