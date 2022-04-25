@@ -50,6 +50,7 @@ If you want to see all the things I have customised, [look here](https://github.
 ## Writing pages for the website
 
 Pages are written in [markdown](https://www.markdownguide.org/basic-syntax), which will be familiar to anyone working with e.g. Jupyter notebooks.
+
 To embed images in your pages, save them under "assets" and reference them like this:
 ``` html
 {% raw %}
@@ -66,13 +67,13 @@ A link is written like this:
 
 The file index.md is the content for your home page - customise this as you wish.
 At the top of the .md file you enter some information like the page title and banner image, then you just start writing.
-[Take a look at the source file behind my own home page](https://github.com/jmtayloruk/jmtayloruk.github.io/blob/main/index.md).
+[Take a look at the source file behind my own home page](https://raw.githubusercontent.com/jmtayloruk/jmtayloruk.github.io/main/index.md).
 
 ## Writing blog posts
 
-To add a blog post, just write it as a .md file, save it under "_posts", and make sure the filename starts with a date (that is not in the future)
+To add a blog post, just write it as a .md file, save it under "_posts", and make sure the filename starts with a date (that is not in the future).
 "feature_image" appears as a banner at the top of the page.
-I mostly leave them as the theme default, as I don't have a good, quick source of suitably-shaped images 
+I mostly leave them as the theme default, as I don't have a good, quick source of suitably-shaped images.
 "image" appears as part of a social media "share" of the blog post.
 I find [undraw.co](https://undraw.co) useful for quickly finding a vaguely relevant image to use for that.
 
@@ -85,9 +86,9 @@ For example [this](#writing-blog-posts) links to the "writing blog posts" headin
 I achieved that by writing a hyperlink to `#writing-blog-posts`, which matches the section heading except with spaces replaced by "-".
 
 If you want your own domain name for the website (rather than e.g. jmtaylor.github.io) then you normally have to pay a company to create it for you.
-But if you do, github will still serve the pages for that domain. Just fill in the "custom domain" setting under github Settings->Pages.
+But if you do, github can still serve the pages for that domain. Just fill in the "custom domain" setting under github Settings->Pages.
 
-If you want to test your edits offline before `git push`ing them to the live site via github, you should be able to do this if you install Jekyll locally.
+If you want to test your edits offline before `git push`-ing them to the live site via github, you should be able to do this if you install Jekyll locally.
 Supposedly the instructions for that are [here](https://jekyllrb.com/docs/).
 That didn't work for me, so for now I'm happily sticking with the amateur method of checking changes on the live website
 (even if that just means [the git history gets a bit messy!](https://github.com/jmtayloruk/jmtayloruk.github.io/commits/main/_posts/2021-11-16-quick-website-building.md))
