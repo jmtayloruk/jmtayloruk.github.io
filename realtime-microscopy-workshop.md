@@ -1,10 +1,9 @@
 ---
-title: Technical challenges in realtime microscopy
 feature_text: |
   ## Technical challenges in realtime microscopy  
   Tuesday 21 June 2022, Glasgow
 
-feature_image: "/assets/img/Zebrafish_group-dimmed.jpeg"
+feature_image: "/assets/img/house-for-art-lover-edited.jpg"
 image: "https://jmtayloruk.github.io/assets/img/undraw_Conversation_re_c26v.png"
 
 ---
