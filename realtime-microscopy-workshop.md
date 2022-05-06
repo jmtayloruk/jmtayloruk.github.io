@@ -19,6 +19,8 @@ Our intention is to create an open, forward-looking atmosphere in which prelimin
 ## Registration - deadline 27 May
 [Please register here to attend](https://docs.google.com/forms/d/e/1FAIpQLSdMynu9p_JMXeIE9KfukhRh0b-svsLVUWEp1lhl3wYRWhWX9A/viewform?usp=sf_link), 
 providing a short bio and information on topics you especially wish to contribute on.
+
+The format will be a small in-person event with 20-25 attendees, to enable focused, inclusive conversations about challenges, ideas and solutions. 
 If the workshop is over-subscribed, we may select attendees on the basis of: relevance of the submitted bios/abstracts, balance of career stages, and diversity.
 
 
