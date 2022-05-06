@@ -17,7 +17,7 @@ and conversations over future aspirations, funding sources, networking and seedi
 Our intention is to create an open, forward-looking atmosphere in which preliminary and aspiring work can be discussed freely.
 
 ## Registration - deadline 27 May
-[Please register your attendance here](https://docs.google.com/forms/d/e/1FAIpQLSdMynu9p_JMXeIE9KfukhRh0b-svsLVUWEp1lhl3wYRWhWX9A/viewform?usp=sf_link), 
+[Please register here to attend](https://docs.google.com/forms/d/e/1FAIpQLSdMynu9p_JMXeIE9KfukhRh0b-svsLVUWEp1lhl3wYRWhWX9A/viewform?usp=sf_link), 
 providing a short bio and information on topics you especially wish to contribute on.
 If the workshop is over-subscribed, we may select attendees on the basis of: relevance of the submitted bios/abstracts, balance of career stages, and diversity.
 
