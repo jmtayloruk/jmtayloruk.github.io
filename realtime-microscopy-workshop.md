@@ -1,5 +1,5 @@
 ---
-title: Workshop: Technical challenges in realtime microscopy
+title: Workshop - Technical challenges in realtime microscopy
 feature_text: |
   Tuesday 21 June 2022, House for an Art Lover, Glasgow
 
