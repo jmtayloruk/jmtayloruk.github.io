@@ -1,20 +1,20 @@
 ---
+title: Workshop: Technical challenges in realtime microscopy
 feature_text: |
-  ## Technical challenges in realtime microscopy  
-  Tuesday 21 June 2022, Glasgow
+  Tuesday 21 June 2022, House for an Art Lover, Glasgow
 
 feature_image: "/assets/img/house-for-art-lover-edited-dimmed.jpg"
 image: "https://jmtayloruk.github.io/assets/img/undraw_Conversation_re_c26v.png"
 
 ---
 
-This one-day workshop will bring together a focused group of people who may be working on quite different applications and biological scenarios, 
+This one-day workshop, supported by the [IBIN](https://ibin.org.uk) network, will bring together a focused group of people who may be working on quite different applications and biological scenarios, 
 but with a common need to deal with high data-rate imagery and processing, and/or realtime hardware feedback. 
 The workshop is targeted both at people working on the technology side of imaging, and at technologically-literate biologists planning on conducting experiments that will require realtime image-based feedback etc. There is much knowledge and activity in this area distributed around the UK (and beyond), but currently also much “reinvention of the wheel” in individual labs. 
 
 The day will be a workshop-style meeting with the aim of sharing of expertise/knowledge for technical problems in realtime microscopy, 
 and conversations over future aspirations, funding sources, networking and seeding of collaborations in realtime microscopy around the UK. 
-Our intention is to have an open, forward-looking environment in which preliminary and aspiring work can be discussed freely.
+Our intention is to create an open, forward-looking atmosphere in which preliminary and aspiring work can be discussed freely.
 
 ## Registration - deadline 27 May
 [Please register your attendance here](https://docs.google.com/forms/d/e/1FAIpQLSdMynu9p_JMXeIE9KfukhRh0b-svsLVUWEp1lhl3wYRWhWX9A/viewform?usp=sf_link), 
@@ -53,8 +53,9 @@ If the workshop is over-subscribed, we may select attendees on the basis of: rel
 The workshop will take place in Glasgow, hosted in the beautiful interior of the [House For An Art Lover](https://www.houseforanartlover.co.uk/about/what-is-house-for-an-art-lover) in Bellahouston Park. 
 We will start at 10am, which should allow time for anybody wishing to take an early flight up to Glasgow on the day, or for people travelling from within Scotland. The workshop will finish at 5pm.
 
-If you are arriving by public transport, it is a 15 minute walk from Dumbreck railway station or 20 minutes from Ibrox subway stop. 
-Free car parking is available at the venue, [which is just a few minutes off the M8](https://www.houseforanartlover.co.uk/visit/travel-information). The venue is a 10 minute taxi ride from the airport or from Glasgow main rail stations.
+If you are arriving by public transport, it is a 15 minute walk from Dumbreck railway station or 20 minutes from Ibrox subway stop. Buses stop nearby on Paisley Road.
+
+If you are arriving by car, free car parking is available at the venue, [which is just a few minutes off the M8](https://www.houseforanartlover.co.uk/visit/travel-information). The venue is a 10 minute taxi ride from the airport or from Glasgow main rail stations.
 
 Lunch, coffee etc will be provided throughout the day. 
 We plan to organise an optional evening meal in the west end after the close of the workshop, for those who are able to stay (let us know when you register). 

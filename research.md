@@ -1,12 +1,9 @@
 ---
 title: My research interests
 feature_text: |
-  ## Research interests
-  
   My research sits at the interface between physics and biology, using optical and computational innovations to develop new imaging and measurement techniques that will permit enhanced understanding of biological systems.
 
 feature_image: "/assets/img/Heart-Matters-8105676-crop-dimmed.jpg"
-#feature_image: "https://jmtayloruk.github.io/assets/Heart-Matters-8105676-crop-dimmed.jpg"
 ---
 
 I am a senior lecturer in Physics at Glasgow University, leading a team of researchers embedded within the wider [Imaging Concepts Group](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/) which consists of three academic PIs.

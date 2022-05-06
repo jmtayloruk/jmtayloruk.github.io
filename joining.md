@@ -1,8 +1,6 @@
 ---
-title: Opportunities
+title: Joining my lab
 feature_text: |
-  ## Joining my lab
-  
   I always welcome email enquiries from people whose research interests overlap with my own. 
   Previous lab members have gone on to a permanent academic post, to postdoctoral research, and to industry.
   Our group hosts a well-equipped, EPSRC-funded interdisciplinary microscopy laboratory,
