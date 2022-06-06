@@ -16,9 +16,10 @@ The day will be a workshop-style meeting with the aim of sharing of expertise/kn
 and conversations over future aspirations, funding sources, networking and seeding of collaborations in realtime microscopy around the UK. 
 Our intention is to create an open, forward-looking atmosphere in which preliminary and aspiring work can be discussed freely.
 
-## Registration - deadline 27 May
-[Please register here to attend](https://docs.google.com/forms/d/e/1FAIpQLSdMynu9p_JMXeIE9KfukhRh0b-svsLVUWEp1lhl3wYRWhWX9A/viewform?usp=sf_link), 
-providing a short bio and information on topics you especially wish to contribute on.
+## Post-deadline registration
+The deadline for registration has passed, but if you are interested and have not yet signed up, do send me an email ASAP as there may still be a couple of spaces.   
+[The registration form is here](https://docs.google.com/forms/d/e/1FAIpQLSdMynu9p_JMXeIE9KfukhRh0b-svsLVUWEp1lhl3wYRWhWX9A/viewform?usp=sf_link), 
+for you to provide a short bio and information on topics you especially wish to contribute on - 
 
 The format will be a small in-person event with 20-25 attendees, to enable focused, inclusive conversations about challenges, ideas and solutions. 
 If the workshop is over-subscribed, we may select attendees on the basis of: relevance of the submitted bios/abstracts, balance of career stages, and diversity.

@@ -92,3 +92,7 @@ If you want to test your edits offline before `git push`-ing them to the live si
 Supposedly the instructions for that are [here](https://jekyllrb.com/docs/).
 That didn't work for me, so for now I'm happily sticking with the amateur method of checking changes on the live website
 (even if that just means [the git history gets a bit messy!](https://github.com/jmtayloruk/jmtayloruk.github.io/commits/main/_posts/2021-11-16-quick-website-building.md))
+
+If you look at [what I have customised](https://github.com/jmtayloruk/jmtayloruk.github.io/compare/c61eb64...main#files_bucket), you will see that I've made a small tweak to
+the page layout compared to the base alembic theme. I have edited `_layouts/page.html` and `_includes/site-feature.html` so that the page title appears in
+the banner at the top, rather than being auto-inserted at the start of the main page content. That style worked better for me, since I effectively use the banner as a page title.
