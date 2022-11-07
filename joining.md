@@ -52,6 +52,9 @@ In all these cases, applications must be made via the university, with varying d
 
 - Scottish-resident applicants with a strong first-class degree are eligible for the [Carnegie Trust PhD Scholarship scheme](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships)
 Contact me by early December; internal selection early January.
+- Black UK-domiciled students can apply for the [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith). 
+In addition to full funding these provide an enhanced experience through external mentors, placements, leadership training, community-building activities and networking opportunities.
+Contact me by early December (guidance available for putting together an application); application deadline end of January.
 - Chinese applicants with a high-achieving undergraduate GPA are eligible for the [China Scholarship Council scheme](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil).
 Contact me by December; internal selection late January.
 - Non-UK applicants with a high-achieving undergraduate GPA are eligible for the College Scholarship scheme. Contact me by December; internal selection late January.
@@ -71,9 +74,9 @@ and an EPSRC Doctoral Prize Fellow.
 ## Coming to Scotland
 
 Scotland is a friendly and welcoming country, with Glasgow being located on the beautiful west coast.
-Glasgow has a thriving cultural scene, and is a great city to be based in for access to the outdoors, with a very affordable cost of living.
+Glasgow has a thriving cultural scene, is a great city to be based in for access to the outdoors, and has a very affordable cost of living.
 [Hiking](https://www.muchbetteradventures.com/magazine/hiking-in-scotland-11-of-the-best-hikes-in-the-country),
 [mountain biking](https://www.visitscotland.com/see-do/active/mountain-biking), 
 [sea kayaking](https://www.wildernessscotland.com/blog/top-10-scottish-sea-kayaking-spots)
-and [mountaineering](https://www.ellis-brigham.com/news-and-blogs/25-scottish-winter-classics) are just some of the activities that some our group members enjoy.
+and [mountaineering](https://www.ellis-brigham.com/news-and-blogs/25-scottish-winter-classics) are just some of the activities that our group members enjoy.
 Scotland's mountains are small by global standards, but are wild and remote, and [liberal land access laws](https://en.wikipedia.org/wiki/Scottish_Outdoor_Access_Code) mean you can basically roam and explore anywhere you want!
