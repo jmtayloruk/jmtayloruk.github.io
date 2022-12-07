@@ -17,6 +17,7 @@ Some of the research questions and challenges I am currently interested in inclu
 - How do we support as many labs as possible to access our advanced motion-stabilisation technologies?  
 - How can we best exploit the relationship between information, measurements and imaging?
 - How can we rethink the imaging & analysis pipeline, improving it by building in knowledge of physical models and expectation at an early stage?
+- What application possibilities are opened up by fast widefield fluorescence lifetime imaging camera technologies (which we have early access to)?
 
 Outside work, I enjoy spend my time exploring the mountains of Scotland on foot, and rock climbing.
 I am a volunteer member of [Lomond Mountain Rescue Team](https://www.lomondmrt.org.uk), assisting lost, ill or injured walkers and climbers in the nearby mountains.
@@ -65,6 +66,14 @@ enabling us to build up low-noise flow fields from very noisy and sparse raw dat
 What if we could acquire an entire 3D volume of a microscope sample from just a single 2D camera image? We have [shown how this can be achieved for point-like particles](https://doi.org/10.1103/PhysRevLett.124.198104), 
 and our ongoing research into new mathematical frameworks for 3D image recovery is showing great promise for reconstructing extended objects including filament structures, blood vessel networks, and cellular organelles.
 Our ability to image a volume in a snapshot sidesteps limitations on volume acquisition rates in fluorescence microscope, opening up new possibilities for 3D imaging of fast dynamic processes. 
+
+### Fast, widefield fluorescence lifetime imaging
+
+Fluorescence lifetime imaging (FLIM) is traditionally achieved using point-scanning microscopy techniques. 
+Exciting new [lifetime imaging camera devices](https://www.horiba.com/int/scientific/products/detail/action/show/Product/flimera-1989/)  have huge potential for fast widefield imaging,
+but scanned fluorescence imaging techniques (particularly two-photon microscopy) are poorly matched to the characteristics of a widefield FLIM camera.
+We are developing [new optical approaches](https://youtu.be/IiCKgJnZ_F4?t=2161) (more results in the pipeline - coming soon!) to enable fast, efficient two-photon FLIM.
+Further work is ongoing to tackle the challenges of imaging deeper into dynamic living tissue.
 
 ### Smart microscopy
 

@@ -14,33 +14,33 @@ image: "https://jmtayloruk.github.io/assets/img/undraw_right_direction_tge8.png"
 ---
 
 
-## PhD projects available for an October 2022 start
+## PhD projects available for an October 2023 start
 
-I am anticipating funding for two PhD projects for an October 2022 start, in the field of smart microscopy, i.e. combining computational and optical techniques to develop microscopes that can adapt their behaviour based on what is happening inside the sample that is being imaged.
+I am currently recruiting two PhD students for an October 2023 start, in the field of computational microscopy
 The projects are suitable for a student with a strong first degree in the physical sciences, a good grounding in optical physics, and an aptitude for computer programming (our preferred language is Python).
-
-#### Beating-heart microscopy technologies for biomedical applications
-
-In microscope imaging, the beating of the heart produces dramatic motion that swamps subtle effects in individual cells. This project will develop optical and computational technologies to enable imaging in the heart itself as effectively as if we could “freeze time” and look at a stationary object. Our new technologies will be based on advanced, novel computer algorithms combined with a detailed understanding of how the heart’s precise motion can vary over time. Our group has developed the concept of “prospective optical gating” (see references below) to deal with the constant motion of living samples being imaged. The successful PhD applicant will develop and apply new, more advanced algorithms based around the same target tracking strategies that underpin everything from space debris tracking to the GPS locator in your phone. This will enable us to predict and correct for complex motions such as those due to the combination of breathing and heartbeat, or in diseased hearts where motion is harder to predict.
-[More details here](https://www.findaphd.com/phds/project/developing-new-beating-heart-microscopy-technologies-for-biomedical-applications/?p141257), or contact me for more info. 
+If you are a strong student who would be a competitive applicant for the scholarship schemes described further down this page, we can also discuss other possible research topics connected with [my research interests](https://jmtayloruk.github.io/research) - contact me by email to discuss. 
 
 #### Sample-Adaptive Smart Microscopy
 
 3D timelapse microscope imaging of biological samples is revolutionising biology, unlocking the ability to directly witness events such as cell-cell interactions whose location in time and space cannot be predicted in advance. Even more powerful would be the ability for a “smart microscope” to detect and respond to these events in real time without human intervention, for example activating high-resolution imaging in the local area of interest, or applying an external intervention such as photo-ablation targeting of a cell of interest.  The successful PhD candidate will develop an adaptive fluorescence microscopy system capable of observing a live specimen over a wide field of view for extended time periods, but then able to image specific events of interest at subcellular resolution. This hardware will be controlled using existing and newly-developed technologies for cell tracking and event detection in microscopy, to create a smart microscope platform for fully-automated timelapse study of live samples such as zebrafish. This will enable detection and monitoring of events such as immune cell interactions with damaged cells in zebrafish heart muscle, and the ability to selectively modulate these interactions by photo-ablation.
 [More details here](https://www.findaphd.com/phds/project/doctor-of-philosophy-phd-sample-adaptive-smart-microscopy-cairn-research-and-university-of-glasgow/?p119252), or contact me for more info.
+You will work closely with the industrial partner, including a placement in their own research laboratories, and there is the possibility of additional travel to visit collaborators’ research labs.
+This project comes with full funding for UK students. 
+
+#### Advanced computational microscopy for mapping fluid dynamics within the beating heart
+
+Much remains to be understood about the way mechanical and hydrodynamic forces, and electrical signalling, interact to drive heart function and growth. 
+This project will develop new optically-based flow imaging techniques to obtain high-precision three-dimensional flow and force measurements in the dynamic environment of the live beating heart.
+[More details here](https://phd-admin.findauniversity.com/#/phd/inst/307/dept/567/projects/141257), or contact me for more info. Strong applicants from anywhere worldwide interested in these projects or other topics within my [research interests](/research/)
+can potentially be nominated for competitive scholarship funding (contact me urgently - deadline for completed formal application is 31st January at the latest) - see details in next sections below.
+
 
 #### Environment and funding
 Both projects will involve close collaboration with an industrial partner (leading UK microscopy companies) as well as biomedical research collaborators seeking to use our techniques to further their own research studies.
-You will experience broad interdisciplinary training, becoming an expert in optical microscopy, instrumentation technology development and commercialisation, 
-but also developing a working understanding of the biomedical research applications that are driving our work. 
-You will work closely with the industrial partner, including a placement in their own research laboratories, and there is the possibility of travel to visit collaborators’ research labs. 
+You will experience broad interdisciplinary training, becoming an expert in optical microscopy, instrumentation technology development, 
+and also develop a working understanding of the biomedical research applications that are driving our work. 
 During the PhD you will be embedded in the Imaging Concepts Group (ICG) at the University of Glasgow, comprised of four academics and 15-20 postdocs, research fellows and PhD students 
 all working on related aspects of optical imaging, with a strong focus on biomedical applications including cardiovascular and ocular biomedicine.
-
-
-Both projects are expected to come with full funding for UK and EU students. If you are a strong student from another country interested in these projects or other topics within my [research interests](/research/)
-then you should get in touch urgently, as there is the potential for you to be nominated for competitive scholarship funding (deadline for completed formal application is 31st January) - see details in next section below.
-
 
 ## Prospective PhD students
 
@@ -52,7 +52,7 @@ In all these cases, applications must be made via the university, with varying d
 
 - Scottish-resident applicants with a strong first-class degree are eligible for the [Carnegie Trust PhD Scholarship scheme](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships)
 Contact me by early December; internal selection early January.
-- Black UK-domiciled students can apply for the [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith). 
+- Black UK-domiciled students can apply for the [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith); final application deadline 31st January. 
 In addition to full funding these provide an enhanced experience through external mentors, placements, leadership training, community-building activities and networking opportunities.
 Contact me by early December (guidance available for putting together an application); application deadline end of January.
 - Chinese applicants with a high-achieving undergraduate GPA are eligible for the [China Scholarship Council scheme](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil).
