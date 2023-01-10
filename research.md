@@ -63,8 +63,8 @@ enabling us to build up low-noise flow fields from very noisy and sparse raw dat
 
 ### Snapshot volume imaging
 
-What if we could acquire an entire 3D volume of a microscope sample from just a single 2D camera image? We have [shown how this can be achieved for point-like particles](https://doi.org/10.1103/PhysRevLett.124.198104), 
-and our ongoing research into new mathematical frameworks for 3D image recovery is showing great promise for reconstructing extended objects including filament structures, blood vessel networks, and cellular organelles.
+What if we could acquire an entire 3D volume image of a microscope sample from just a single 2D camera image?
+Our ongoing research into new mathematical frameworks for 3D image recovery is showing great promise for reconstructing extended objects including filament structures, blood vessel networks, and cellular organelles.
 Our ability to image a volume in a snapshot sidesteps limitations on volume acquisition rates in fluorescence microscope, opening up new possibilities for 3D imaging of fast dynamic processes. 
 
 ### Fast, widefield fluorescence lifetime imaging
