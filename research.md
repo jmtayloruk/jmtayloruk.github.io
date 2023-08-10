@@ -6,7 +6,7 @@ feature_text: |
 feature_image: "/assets/img/Heart-Matters-8105676-crop-dimmed.jpg"
 ---
 
-I am a senior lecturer in Physics at Glasgow University, leading a team of researchers embedded within the wider [Imaging Concepts Group](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/) which consists of four academic PIs.
+I am a Reader in Physics at Glasgow University, leading a team of researchers embedded within the wider [Imaging Concepts Group](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/) which consists of four academic PIs.
 My research team develops novel optical microscopy techniques, with a particular interest in the intersection of light sheet microscopy, computational imaging, and in vivo biology.
 Live organisms and cells are often moving (on various length scales), and much of our research is directed at overcoming problems caused by that motion, or developing better ways to measure it when the motion itself is of scientific interest.
 A key highlight of my recent research is my development of [heartbeat-synchronized imaging](#motion-stabilised-imaging) to enable long-term timelapse imaging in the beating heart itself. 
