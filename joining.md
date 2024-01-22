@@ -14,26 +14,47 @@ image: "https://jmtayloruk.github.io/assets/img/undraw_right_direction_tge8.png"
 ---
 
 
-## PhD projects available for an October 2023 start
+## PhD projects available for an October 2024 start
 
-I am currently recruiting two PhD students for an October 2023 start, in the field of computational microscopy
+I am currently recruiting two PhD students for an October 2023 start, in the fields of biophotonics and computational microscopy
 The projects are suitable for a student with a strong first degree in the physical sciences, a good grounding in optical physics, and an aptitude for computer programming (our preferred language is Python).
 If you are a strong student who would be a competitive applicant for the scholarship schemes described further down this page, we can also discuss other possible research topics connected with [my research interests](https://jmtayloruk.github.io/research) - contact me by email to discuss. 
 
-#### Sample-Adaptive Smart Microscopy
+#### Cell-level biophotonic measurement of forces in living, moving tissue
 
-3D timelapse microscope imaging of biological samples is revolutionising biology, unlocking the ability to directly witness events such as cell-cell interactions whose location in time and space cannot be predicted in advance. Even more powerful would be the ability for a “smart microscope” to detect and respond to these events in real time without human intervention, for example activating high-resolution imaging in the local area of interest, or applying an external intervention such as photo-ablation targeting of a cell of interest.  The successful PhD candidate will develop an adaptive fluorescence microscopy system capable of observing a live specimen over a wide field of view for extended time periods, but then able to image specific events of interest at subcellular resolution. This hardware will be controlled using existing and newly-developed technologies for cell tracking and event detection in microscopy, to create a smart microscope platform for fully-automated timelapse study of live samples such as zebrafish. This will enable detection and monitoring of events such as immune cell interactions with damaged cells in zebrafish heart muscle, and the ability to selectively modulate these interactions by photo-ablation.
-[More details here](https://www.findaphd.com/phds/project/sample-adaptive-smart-microscopy/?p154343), or contact me for more info.
-You will work closely with the industrial partner, including a placement in their own research laboratories, and there is the possibility of additional travel to visit collaborators’ research labs.
+
+New advanced imaging technologies such as single-photon avalanche diode (SPAD) arrays allow detailed measurements of individual photons emitted by living tissue via fluorescence.
+This includes measurements of fluorescence lifetimes, a sensitive probe of the molecular environment and mechanical forces present in living cells. 
+Researchers are starting to use these probes to understand for the first time how forces and related biophysical processes at a subcellular level 
+influence organ development, normal function and disease pathology. 
+It is particularly hard to make and interpret these measurements in the moving environment of a living organisms, 
+since the measurements typically require long integration times of many seconds.
+
+This project will research new biophotonic approaches for measuring forces via fluorescence lifetime probes in living, moving organisms. 
+Until recently this has seemed impossible, but recent advances in optics (fast single-photon imaging cameras), biology (genetic modification approaches), 
+chemistry (force-sensitive fluorescent probes) mean that this challenge is now within reach. 
+The student will design and construct new optical and computational systems to tackle this challenge, 
+collaborating with hardware manufacturers to get the most out of cutting-edge technologies, 
+and collaborating closely with biological collaborators to apply our research to answer real-world biological questions. 
+
+[More details here](https://www.findaphd.com/phds/project/cell-level-biophotonic-measurement-of-forces-in-living-moving-tissue/?p168272), or contact me for more info.
 
 Strong applicants from anywhere worldwide interested in these projects or other topics within my [research interests](/research/)
 can potentially be nominated for competitive scholarship funding (contact me urgently - deadline for completed formal application is 31st January at the latest) - see details in next sections below.
 
-#### Advanced computational microscopy for mapping fluid dynamics within the beating heart
+#### Computational image reconstruction for dynamic biological samples
 
-Much remains to be understood about the way mechanical and hydrodynamic forces, and electrical signalling, interact to drive heart function and growth. 
-This project will develop new optically-based flow imaging techniques to obtain high-precision three-dimensional flow and force measurements in the dynamic environment of the live beating heart.
-[More details here](https://www.findaphd.com/phds/project/advanced-computational-microscopy-for-mapping-fluid-dynamics-within-the-beating-heart/?p141257), or contact me for more info. 
+New microscope designs developed by optical researchers are revolutionising biomedical research by providing rapid 3D+time imaging of live biological samples. 
+The raw data acquired often requires further computational processing, such as deconvolution and multi-view fusion, to deliver the best images. 
+This project will research new computational strategies for reconstructing high-quality images of moving samples, 
+in circumstances where that motion would previously have irretrievably corrupted the data acquisition. 
+Questions to be explored within this project include:
+- Can we deduce and correct for motion even when we have no external information on what that motion was?
+- Can we use computational approaches to fill in missing or locally-corrupted image content in space and time?
+- Can “classical” physics-led algorithms perform just as well as machine-learning based approaches?
+- Can our approaches deliver improved performance even on unmodified commercial microscope platforms?
+
+[More details here](https://www.findaphd.com/phds/project/computational-image-reconstruction-for-dynamic-biological-samples/?p168268), or contact me for more info. 
 
 Strong applicants from anywhere worldwide interested in these projects or other topics within my [research interests](/research/)
 can potentially be nominated for competitive scholarship funding (contact me urgently - deadline for completed formal application is 31st January at the latest) - see details in next sections below.
@@ -43,7 +64,9 @@ can potentially be nominated for competitive scholarship funding (contact me urg
 Both projects will involve close collaboration with an industrial partner (leading UK microscopy companies) as well as biomedical research collaborators seeking to use our techniques to further their own research studies.
 You will experience broad interdisciplinary training, becoming an expert in optical microscopy, instrumentation technology development, 
 and also develop a working understanding of the biomedical research applications that are driving our work. 
-During the PhD you will be embedded in the Imaging Concepts Group (ICG) at the University of Glasgow, comprised of four academics and 15-20 postdocs, research fellows and PhD students 
+During the PhD you will be embedded in the Imaging Concepts Group (ICG) at the University of Glasgow, 
+a research group in which individuals from a diverse range of backgrounds are all supported to thrive.
+Our group consists of four academics and 15-20 postdocs, research fellows and PhD students 
 all working on related aspects of optical imaging, with a strong focus on biomedical applications including cardiovascular and ocular biomedicine.
 
 ## Prospective PhD students
@@ -54,8 +77,7 @@ I may have one or more fully-funded projects available in any given year.
 There are also various scholarship routes available for a suitably-qualified applicant.
 In all these cases, applications must be made via the university, with varying deadlines, so you should contact me well in advance to discuss this: 
 
-- Scottish-resident applicants with a strong first-class degree are eligible for the [Carnegie Trust PhD Scholarship scheme](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships)
-Contact me by early December; internal selection early January.
+- Scottish-resident applicants with a strong first-class degree are eligible for Glasgow University scholarship funding. Contact me by early December; internal selection early January.
 - Black UK-domiciled students can apply for the [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith); final application deadline 31st January. 
 In addition to full funding these provide an enhanced experience through external mentors, placements, leadership training, community-building activities and networking opportunities.
 Contact me by early December (guidance available for putting together an application); application deadline end of January.
