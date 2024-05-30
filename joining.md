@@ -13,15 +13,78 @@ image: "https://jmtayloruk.github.io/assets/img/undraw_right_direction_tge8.png"
 
 ---
 
+At present (in the second half of 2024) I do not have any funded positions open, although I always welcome expressions of interest as a mentor
+for anyone applying for a research fellowship aligned with my own [research interests](/research/).
 
-## PhD projects available for an October 2024 start
+I hope to be in a position to recruit one or more postdocs in late 2024 (watch this space).
 
-I am currently recruiting two PhD students for an October 2023 start, in the fields of biophotonics and computational microscopy
-The projects are suitable for a student with a strong first degree in the physical sciences, a good grounding in optical physics, and an aptitude for computer programming (our preferred language is Python).
-If you are a strong student who would be a competitive applicant for the scholarship schemes described further down this page, we can also discuss other possible research topics connected with [my research interests](https://jmtayloruk.github.io/research) - contact me by email to discuss. 
+## Prospective PhD students
+
+I normally advertise PhD projects on [findaphd.com](https://www.findaphd.com) from around November each year, but if you are interested in a particular research area where I am not advertising a specific project, let's talk about it.
+I may have one or more fully-funded projects available in any given year.
+
+There are also various scholarship routes available for a suitably-qualified applicant.
+In all these cases, applications must be made via the university, with varying deadlines, so you should contact me well in advance to discuss this: 
+
+- Scottish-resident applicants with a strong first-class degree are eligible for Glasgow University scholarship funding. Contact me by early December; internal selection early January.
+- Black UK-domiciled students can apply for the [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith); final application deadline 31st January. 
+In addition to full funding these provide an enhanced experience through external mentors, placements, leadership training, community-building activities and networking opportunities.
+Contact me by early December (guidance available for putting together an application); application deadline end of January.
+- Students from under-represented groups may be able to apply through the [DiveIN centre for doctoral training](https://www.divein.org.uk), for an October 2025 start.
+- Chinese applicants with a high-achieving undergraduate GPA are eligible for the [China Scholarship Council scheme](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil).
+Contact me by December; internal selection late January.
+- Non-UK applicants with a high-achieving undergraduate GPA are eligible for the College Scholarship scheme. Contact me by December; internal selection late January.
+
+I wrote some general guidance for prospective PhD applicants [here]({% post_url 2021-10-11-phd-applications-applying %}).
+
+To submit a formal PhD application to the university, [use this link](https://www.gla.ac.uk/postgraduate/research/physicsastronomy/#tab=apply).
+
+## Prospective postdoctoral researchers
+
+I advertise funded postdoctoral vacancies on [jobs.ac.uk](https://www.jobs.ac.uk) as and when they become available.
+
+If you want to develop your own research ideas and join my lab, please get in touch to discuss my supporting you with a fellowship application.
+We have previously hosted a number of research fellows, including a [Marie Curie postdoctoral fellow](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships)
+and an EPSRC Doctoral Prize Fellow.
+
+## Research environment
+Much of my group's research involves close collaboration with biomedical research collaborators seeking to use our techniques to further their own research studies,
+and also with industrial partner (leading UK microscopy companies).
+In my group will experience broad interdisciplinary training, building your expertise in optical microscopy, instrumentation technology development, 
+and also develop a working understanding of the biomedical research applications that are driving our work. 
+
+I seek to cultivate an open, supportive research culture where lab members feel inspired, but not pressured, to do their best science. 
+Interdisciplinarity is fundamental to my research approach, and I ensure my team have ample opportunities to interact with researchers in other disciplines 
+and gain the cross-disciplinary experiences they need to thrive in their own careers. 
+This is made possible primarily through my close collaborations with other teams – including my long-standing collaborators
+at the Centre for Cardiovascular Science at Edinburgh University.
+
+Previous PhD students (4 students graduated to date as primary supervisor) have continued to both research and industry careers, in the UK and abroad.
+Similarly, former PDRAs and research fellows have gone on to other research posts, a permanent academic position, R&D positions in industry, and a spinout company. 
+Equality, diversity and inclusion, and also collegiality, are strong positives of the environment within the School of Physics,
+as evidenced by external recognition ([Athena SWAN](https://advance-he.ac.uk/equality-charters/athena-swan-charter) Silver since 2013; [Juno](https://www.iop.org/about/IOP-diversity-inclusion/project-juno) Champion since 2011). 
+
+The wider Imaging Concepts Group (ICG) consists of four academics and 15-20 postdocs, research fellows and PhD students 
+all working on related aspects of optical imaging, with a strong focus on biomedical applications including cardiovascular and ocular biomedicine.
+
+
+## Coming to Scotland
+
+Scotland is a friendly and welcoming country, with Glasgow being located on the beautiful west coast.
+Glasgow has a thriving cultural scene, is a great city to be based in for access to the outdoors, and has a very affordable cost of living.
+[Hiking](https://www.muchbetteradventures.com/magazine/hiking-in-scotland-11-of-the-best-hikes-in-the-country),
+[mountain biking](https://www.visitscotland.com/see-do/active/mountain-biking), 
+[sea kayaking](https://www.wildernessscotland.com/blog/top-10-scottish-sea-kayaking-spots)
+and [mountaineering](https://www.ellis-brigham.com/news-and-blogs/25-scottish-winter-classics) are just some of the activities that our group members enjoy.
+Scotland's mountains are small by global standards, but are wild and remote, and [liberal land access laws](https://en.wikipedia.org/wiki/Scottish_Outdoor_Access_Code) mean you can basically roam and explore anywhere you want!
+
+## Previously-advertised projects
+
+To give prospective PhD students an idea of what sort of projects I tend to supervise, here are two recent project adverts.
+In general my projects are suitable for a student with a strong first degree in the physical sciences, a good grounding in optical physics, and an aptitude for computer programming (our preferred language is Python).
+If you are a strong student who would be a competitive applicant for the scholarship schemes mentioned on this page, we can also discuss other possible research topics connected with [my research interests](https://jmtayloruk.github.io/research) - contact me by email to discuss. 
 
 #### Cell-level biophotonic measurement of forces in living, moving tissue
-
 
 New advanced imaging technologies such as single-photon avalanche diode (SPAD) arrays allow detailed measurements of individual photons emitted by living tissue via fluorescence.
 This includes measurements of fluorescence lifetimes, a sensitive probe of the molecular environment and mechanical forces present in living cells. 
@@ -57,52 +120,4 @@ Questions to be explored within this project include:
 [More details here](https://www.findaphd.com/phds/project/computational-image-reconstruction-for-dynamic-biological-samples/?p168268), or contact me for more info. 
 
 Strong applicants from anywhere worldwide interested in these projects or other topics within my [research interests](/research/)
-can potentially be nominated for competitive scholarship funding (contact me urgently - deadline for completed formal application is 31st January at the latest) - see details in next sections below.
-
-
-#### Environment and funding
-Both projects will involve close collaboration with an industrial partner (leading UK microscopy companies) as well as biomedical research collaborators seeking to use our techniques to further their own research studies.
-You will experience broad interdisciplinary training, becoming an expert in optical microscopy, instrumentation technology development, 
-and also develop a working understanding of the biomedical research applications that are driving our work. 
-During the PhD you will be embedded in the Imaging Concepts Group (ICG) at the University of Glasgow, 
-a research group in which individuals from a diverse range of backgrounds are all supported to thrive.
-Our group consists of four academics and 15-20 postdocs, research fellows and PhD students 
-all working on related aspects of optical imaging, with a strong focus on biomedical applications including cardiovascular and ocular biomedicine.
-
-## Prospective PhD students
-
-I normally advertise PhD projects on [findaphd.com](https://www.findaphd.com) from around November each year, but if you are interested in a particular research area where I am not advertising a specific project, let's talk about it.
-I may have one or more fully-funded projects available in any given year.
-
-There are also various scholarship routes available for a suitably-qualified applicant.
-In all these cases, applications must be made via the university, with varying deadlines, so you should contact me well in advance to discuss this: 
-
-- Scottish-resident applicants with a strong first-class degree are eligible for Glasgow University scholarship funding. Contact me by early December; internal selection early January.
-- Black UK-domiciled students can apply for the [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith); final application deadline 31st January. 
-In addition to full funding these provide an enhanced experience through external mentors, placements, leadership training, community-building activities and networking opportunities.
-Contact me by early December (guidance available for putting together an application); application deadline end of January.
-- Chinese applicants with a high-achieving undergraduate GPA are eligible for the [China Scholarship Council scheme](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil).
-Contact me by December; internal selection late January.
-- Non-UK applicants with a high-achieving undergraduate GPA are eligible for the College Scholarship scheme. Contact me by December; internal selection late January.
-
-I wrote some general guidance for prospective PhD applicants [here]({% post_url 2021-10-11-phd-applications-applying %}).
-
-To submit a formal PhD application to the university, [use this link](https://www.gla.ac.uk/postgraduate/research/physicsastronomy/#tab=apply).
-
-## Prospective postdoctoral researchers
-
-I advertise funded postdoctoral vacancies on [jobs.ac.uk](https://www.jobs.ac.uk) as and when they become available.
-
-If you want to develop your own research ideas and join my lab, please get in touch to discuss my supporting you with a fellowship application.
-We have previously hosted a number of research fellows, including a [Marie Curie postdoctoral fellow](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships)
-and an EPSRC Doctoral Prize Fellow.
-
-## Coming to Scotland
-
-Scotland is a friendly and welcoming country, with Glasgow being located on the beautiful west coast.
-Glasgow has a thriving cultural scene, is a great city to be based in for access to the outdoors, and has a very affordable cost of living.
-[Hiking](https://www.muchbetteradventures.com/magazine/hiking-in-scotland-11-of-the-best-hikes-in-the-country),
-[mountain biking](https://www.visitscotland.com/see-do/active/mountain-biking), 
-[sea kayaking](https://www.wildernessscotland.com/blog/top-10-scottish-sea-kayaking-spots)
-and [mountaineering](https://www.ellis-brigham.com/news-and-blogs/25-scottish-winter-classics) are just some of the activities that our group members enjoy.
-Scotland's mountains are small by global standards, but are wild and remote, and [liberal land access laws](https://en.wikipedia.org/wiki/Scottish_Outdoor_Access_Code) mean you can basically roam and explore anywhere you want!
+can potentially be nominated for competitive scholarship funding (see above).
