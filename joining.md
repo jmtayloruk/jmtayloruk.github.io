@@ -48,9 +48,12 @@ We have previously hosted a number of research fellows, including a [Marie Curie
 and an EPSRC Doctoral Prize Fellow.
 
 ## Research environment
-Much of my group's research involves close collaboration with biomedical research collaborators seeking to use our techniques to further their own research studies,
-and also with industrial partner (leading UK microscopy companies).
-In my group will experience broad interdisciplinary training, building your expertise in optical microscopy, instrumentation technology development, 
+Imaging Concepts Group (ICG) consists of four academics and 15-20 postdocs, research fellows and PhD students 
+all working on related aspects of optical imaging, with a strong focus on biomedical applications including cardiovascular and ocular biomedicine.
+
+Much of my own team's research involves close collaboration with biomedical research collaborators seeking to use our techniques to further their own research studies,
+and also with industrial partners (leading UK microscopy companies).
+In my group you will experience broad interdisciplinary training, building your expertise in optical microscopy, research software and instrumentation technology development, 
 and also develop a working understanding of the biomedical research applications that are driving our work. 
 
 I seek to cultivate an open, supportive research culture where lab members feel inspired, but not pressured, to do their best science. 
@@ -59,13 +62,11 @@ and gain the cross-disciplinary experiences they need to thrive in their own car
 This is made possible primarily through my close collaborations with other teams – including my long-standing collaborators
 at the Centre for Cardiovascular Science at Edinburgh University.
 
-Previous PhD students (4 students graduated to date as primary supervisor) have continued to both research and industry careers, in the UK and abroad.
+Previously-graduated PhD students have continued to both research and industry careers, in the UK and abroad.
 Similarly, former PDRAs and research fellows have gone on to other research posts, a permanent academic position, R&D positions in industry, and a spinout company. 
 Equality, diversity and inclusion, and also collegiality, are strong positives of the environment within the School of Physics,
-as evidenced by external recognition ([Athena SWAN](https://advance-he.ac.uk/equality-charters/athena-swan-charter) Silver since 2013; [Juno](https://www.iop.org/about/IOP-diversity-inclusion/project-juno) Champion since 2011). 
+ (external recognition of the School includes [Athena SWAN](https://advance-he.ac.uk/equality-charters/athena-swan-charter) Silver since 2013, and [Juno](https://www.iop.org/about/IOP-diversity-inclusion/project-juno) Champion since 2011). 
 
-The wider Imaging Concepts Group (ICG) consists of four academics and 15-20 postdocs, research fellows and PhD students 
-all working on related aspects of optical imaging, with a strong focus on biomedical applications including cardiovascular and ocular biomedicine.
 
 
 ## Coming to Scotland
