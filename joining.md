@@ -56,7 +56,7 @@ and also with industrial partners (leading UK microscopy companies).
 In my group you will experience broad interdisciplinary training, building your expertise in optical microscopy, research software and instrumentation technology development, 
 and also develop a working understanding of the biomedical research applications that are driving our work. 
 
-I seek to cultivate an open, supportive research culture where lab members feel inspired, but not pressured, to do their best science. 
+I seek to cultivate an open, supportive research culture where lab members feel inspired and challenged, but not pressured, to do their best science. 
 Interdisciplinarity is fundamental to my research approach, and I ensure my team have ample opportunities to interact with researchers in other disciplines 
 and gain the cross-disciplinary experiences they need to thrive in their own careers. 
 This is made possible primarily through my close collaborations with other teams – including my long-standing collaborators
