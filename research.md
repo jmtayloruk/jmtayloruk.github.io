@@ -81,3 +81,8 @@ A theme running through several of these research areas is that of **smart micro
 Other examples of our work in this area include [contact-free hydrodynamic confinement and manipulation of microparticles](https://doi.org/10.1038/s41467-019-08968-7),
 [precision heartbeat-synchronized laser ablation in the beating heart](https://doi.org/10.1016/j.ijcard.2013.06.063)
 and [foveated imaging that dynamically adapts the camera's attention to important objects in a scene](https://doi.org/10.1126/sciadv.1601782).
+
+# Lab member timeline
+
+{% include figure.html image="/assets/lab-timeline.png" width="700" height="500" %}
+

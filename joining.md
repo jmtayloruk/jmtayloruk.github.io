@@ -4,7 +4,8 @@ feature_text: |
   I always welcome email enquiries from people whose research interests overlap with my own. 
   Previous lab members have gone on to a permanent academic post, to postdoctoral research, and to industry.
   Our group hosts a well-equipped, EPSRC-funded interdisciplinary microscopy laboratory,
-  which has given us substantial in-house capabilities for collaborative research at the life sciences interface.
+  which has given us substantial in-house capabilities for collaborative research at the life sciences interface,
+  and I have a wide network of collaborators who motivate and benefit from our technology development research for *in vivo* imaging.
 
 
 feature_image: "/assets/img/Zebrafish_group-dimmed.jpeg"
@@ -13,7 +14,9 @@ image: "https://jmtayloruk.github.io/assets/img/undraw_right_direction_tge8.png"
 
 ---
 
-At present (in the second half of 2024) I do not have any funded positions open, although I always welcome expressions of interest as a mentor
+I am expecting to advertise multiple postdoc positions imminently (in the second half of 2024) -
+early expressions of interest welcome, and I expect to have adverts out soon.
+I also always welcome expressions of interest as a mentor
 for anyone applying for a research fellowship aligned with my own [research interests](/research/).
 
 I hope to be in a position to recruit one or more postdocs in late 2024 (watch this space).
@@ -41,6 +44,8 @@ To submit a formal PhD application to the university, [use this link](https://ww
 
 ## Prospective postdoctoral researchers
 
+I am expecting to advertise multiple postdoc positions imminently (in the second half of 2024) -
+early expressions of interest welcome, and I expect to have adverts out soon.
 I advertise funded postdoctoral vacancies on [jobs.ac.uk](https://www.jobs.ac.uk) as and when they become available.
 
 If you want to develop your own research ideas and join my lab, please get in touch to discuss my supporting you with a fellowship application.
@@ -48,7 +53,7 @@ We have previously hosted a number of research fellows, including a [Marie Curie
 and an EPSRC Doctoral Prize Fellow.
 
 ## Research environment
-Imaging Concepts Group (ICG) consists of four academics and 15-20 postdocs, research fellows and PhD students 
+The Imaging Concepts Group (ICG) consists of four academics and 15-20 postdocs, research fellows and PhD students 
 all working on related aspects of optical imaging, with a strong focus on biomedical applications including cardiovascular and ocular biomedicine.
 
 Much of my own team's research involves close collaboration with biomedical research collaborators seeking to use our techniques to further their own research studies,
