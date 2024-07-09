@@ -84,5 +84,5 @@ and [foveated imaging that dynamically adapts the camera's attention to importan
 
 # Lab member timeline
 
-{% include figure.html image="/assets/lab-timeline.png" width="700" height="500" %}
+{% include figure.html image="/assets/img/lab-timeline.png" width="700" height="500" %}
 
