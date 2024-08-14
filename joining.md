@@ -14,12 +14,11 @@ image: "https://jmtayloruk.github.io/assets/img/undraw_right_direction_tge8.png"
 
 ---
 
-I am expecting to advertise multiple postdoc positions imminently (in the second half of 2024) -
-early expressions of interest welcome, and I expect to have adverts out soon.
+Official adverts will be posted very soon for **three** postdoc positions to start by January 2025 -
+early expressions of interest welcomed by email. My biological collaborators in Edinburgh and Sheffield will also be recruiting postdocs.
+
 I also always welcome expressions of interest as a mentor
 for anyone applying for a research fellowship aligned with my own [research interests](/research/).
-
-I hope to be in a position to recruit one or more postdocs in late 2024 (watch this space).
 
 ## Prospective PhD students
 
@@ -44,8 +43,8 @@ To submit a formal PhD application to the university, [use this link](https://ww
 
 ## Prospective postdoctoral researchers
 
-I am expecting to advertise multiple postdoc positions imminently (in the second half of 2024) -
-early expressions of interest welcome, and I expect to have adverts out soon.
+Official adverts will be posted very soon for **three** postdoc positions to start by January 2025 -
+early expressions of interest welcomed by email. My biological collaborators in Edinburgh and Sheffield will also be recruiting postdocs.
 I advertise funded postdoctoral vacancies on [jobs.ac.uk](https://www.jobs.ac.uk) as and when they become available.
 
 If you want to develop your own research ideas and join my lab, please get in touch to discuss my supporting you with a fellowship application.
@@ -77,14 +76,14 @@ Equality, diversity and inclusion, and also collegiality, are strong positives o
 ## Coming to Scotland
 
 Scotland is a friendly and welcoming country, with Glasgow being located on the beautiful west coast.
-Glasgow has a thriving cultural scene, is a great city to be based in for access to the outdoors, and has a very affordable cost of living.
+Glasgow has a thriving cultural scene, is a great city to be based in for access to the outdoors, and has an affordable cost of living.
 [Hiking](https://www.muchbetteradventures.com/magazine/hiking-in-scotland-11-of-the-best-hikes-in-the-country),
 [mountain biking](https://www.visitscotland.com/see-do/active/mountain-biking), 
 [sea kayaking](https://www.wildernessscotland.com/blog/top-10-scottish-sea-kayaking-spots)
 and [mountaineering](https://www.ellis-brigham.com/news-and-blogs/25-scottish-winter-classics) are just some of the activities that our group members enjoy.
 Scotland's mountains are small by global standards, but are wild and remote, and [liberal land access laws](https://en.wikipedia.org/wiki/Scottish_Outdoor_Access_Code) mean you can basically roam and explore anywhere you want!
 
-## Previously-advertised projects
+## Previously-advertised PhD projects
 
 To give prospective PhD students an idea of what sort of projects I tend to supervise, here are two recent project adverts.
 In general my projects are suitable for a student with a strong first degree in the physical sciences, a good grounding in optical physics, and an aptitude for computer programming (our preferred language is Python).
@@ -108,9 +107,6 @@ and collaborating closely with biological collaborators to apply our research to
 
 [More details here](https://www.findaphd.com/phds/project/cell-level-biophotonic-measurement-of-forces-in-living-moving-tissue/?p168272), or contact me for more info.
 
-Strong applicants from anywhere worldwide interested in these projects or other topics within my [research interests](/research/)
-can potentially be nominated for competitive scholarship funding (contact me urgently - deadline for completed formal application is 31st January at the latest) - see details in next sections below.
-
 #### Computational image reconstruction for dynamic biological samples
 
 New microscope designs developed by optical researchers are revolutionising biomedical research by providing rapid 3D+time imaging of live biological samples. 
@@ -126,4 +122,4 @@ Questions to be explored within this project include:
 [More details here](https://www.findaphd.com/phds/project/computational-image-reconstruction-for-dynamic-biological-samples/?p168268), or contact me for more info. 
 
 Strong applicants from anywhere worldwide interested in these projects or other topics within my [research interests](/research/)
-can potentially be nominated for competitive scholarship funding (see above).
+can potentially be nominated for competitive scholarship funding (contact me well in advance - deadline for completed formal application is 31st January at the latest) - see details near the top of this page
