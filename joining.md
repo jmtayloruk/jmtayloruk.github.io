@@ -32,7 +32,8 @@ In all these cases, applications must be made via the university, with varying d
 - Black UK-domiciled students can apply for the [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith); final application deadline 31st January. 
 In addition to full funding these provide an enhanced experience through external mentors, placements, leadership training, community-building activities and networking opportunities.
 Contact me by early December (guidance available for putting together an application); application deadline end of January.
-- Students from under-represented groups may be able to apply through the [DiveIN centre for doctoral training](https://www.divein.org.uk), for an October 2025 start.
+- Students from groups under-represented in Physics can apply for the [IoP Bell Burnell scholarships](https://www.iop.org/about/support-grants/bell-burnell-fund); application deadline mid January.
+- Students from groups under-represented in Physics can apply to the [DiveIN centre for doctoral training](https://www.divein.org.uk), for an October 2025 start.
 - Chinese applicants with a high-achieving undergraduate GPA are eligible for the [China Scholarship Council scheme](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil).
 Contact me by December; internal selection late January.
 - Non-UK applicants with a high-achieving undergraduate GPA are eligible for the College Scholarship scheme. Contact me by December; internal selection late January.
@@ -50,6 +51,15 @@ I advertise funded postdoctoral vacancies on [jobs.ac.uk](https://www.jobs.ac.uk
 If you want to develop your own research ideas and join my lab, please get in touch to discuss my supporting you with a fellowship application.
 We have previously hosted a number of research fellows, including a [Marie Curie postdoctoral fellow](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships)
 and an EPSRC Doctoral Prize Fellow.
+
+
+#### International applicants
+
+Glasgow University will [pay visa costs for international applicants](https://www.gla.ac.uk/myglasgow/pod/recruitment/relocatingtoglasgow/glasgowwelcome/visitingglasgow/relocatingtoglasgow/relocation).
+In many cases they will also contribute to your [relocation expenses](https://www.gla.ac.uk/myglasgow/pod/recruitment/relocatingtoglasgow/glasgowwelcome/visitingglasgow/relocatingtoglasgow/relocation).
+There are [a number of different visa routes](https://www.gla.ac.uk/myglasgow/pod/recruitment/visasimmigration) open to you if you are appointed to a position.
+For highly-qualified applicants these include the [Global Talent Visa](https://www.gla.ac.uk/myglasgow/pod/recruitment/visasimmigration/overviewoftheglobaltalentvisa) which is particularly attractive as it is not time-limited to the project you are initially appointed on, and gives you future flexibility to work in the UK. 
+
 
 ## Research environment
 The Imaging Concepts Group (ICG) consists of four academics and 15-20 postdocs, research fellows and PhD students 

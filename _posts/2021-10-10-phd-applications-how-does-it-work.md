@@ -50,7 +50,7 @@ In all cases, you normally expect to *be paid* (modestly) to undertake PhD study
 This comes in the form of a *stipend*, which is tax-free income.
 A "fully funded" PhD project will include this stipend and will also pay the university's *tuition fees* on your behalf.
 
-The stipend will typically be in the vicinity of £15-20k/year (as of 2021). Combined with the financial perks of official student status (e.g. council tax exemption),
+The stipend will typically be in the vicinity of £19-23k/year (as of 2024). Combined with the financial perks of official student status (e.g. council tax exemption),
 this is usually sufficient for a comfortable "student" lifestyle (particularly if flat-sharing etc), although it does not leave much headroom for supporting dependants.
 Although historically provision of maternity leave, sick leave etc has been lacking (PhD students are not classed as employees in the UK), this provision is (finally) starting to improve.
 
@@ -120,6 +120,17 @@ For example, Chinese applicants with a high-achieving undergraduate GPA (either 
 In some cases, government scholarship applications for overseas study are submitted by the individual student (often after first identifying an appropriate supervisor).
 In other cases (including some CSC schemes) a UK university is given a fixed allocation of studentships and some freedom to make their own selection of the best applicants.
 
+For students with backgrounds traditionally underrepresented in Physics, there are a range of scholarships available that you may be able to access.
+These schemes will look to support applicants with strong academic *potential*, but selection will take into account that you may not have benefitted from the same past opportunities that others had.
+For example:
+- Students from groups under-represented in Physics can apply for the [IoP Bell Burnell scholarships](https://www.iop.org/about/support-grants/bell-burnell-fund); application deadline mid January.
+- Students from groups under-represented in Physics can apply to the [DiveIN centre for doctoral training](https://www.divein.org.uk), for an October 2025 start.
+- Black UK-domiciled students can apply for Glasgow's [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith); final application deadline 31st January. 
+In addition to full funding, these schemes typically provide an enhanced experience through external mentors, placements, leadership training, community-building activities and networking opportunities.
+It is important to make early contact with a potential project supervisor, so they can work together with you and the funder to help you develop an application that tells your story effectively.
+
+
+
 ### Competitive funding
 
 For any of these schemes described so far, a project advert may refer to "competitive funding".
@@ -166,7 +177,7 @@ You should discuss the availability of such funding with potential supervisors.
 ### Flexibility and special circumstances
 
 Projects will be advertised as full time. If you have particular reasons (e.g. dependants, or health) to desire part-time study, then many funders will be supportive of that.
-You may wish to seek advice from somebody you trust about what the best way is to approach this.
+You may wish to seek advice from somebody you trust about what the best way is to approach a discussion about this with the project supervisor.
 
 However, many funders are also increasingly supportive (as they should be) of peoples personal circumstances.
 If you would prefer full-time study but have concerns about how to make that work,
