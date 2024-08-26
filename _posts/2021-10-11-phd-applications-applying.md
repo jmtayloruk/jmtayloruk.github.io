@@ -132,7 +132,7 @@ They might ask you things like:
 - Questions about what the project is about (so do your reading in advance...)
 - Relevant scientific questions that you should know about from your undergraduate studies
 - Relevant scientific questions/problems that you *aren't* expected to "know", but are expected to think about and talk through your reasoning.
-- Do you have any questions for us? (Make sure you have a question ready for this!)
+- "Do you have any questions for us?" (Make sure you have a question ready for this!)
 
 ### Offer
 
@@ -157,7 +157,7 @@ You may then need to use your negotiation skills to try and delay that deadline 
 
 Some funders impose conditions that prevent universities and supervisors from putting you under undue pressure to make an early decision at short notice.
 For example STFC (who fund UK "big science" such as particle physics and astronomy) specify that you
-[should not be pressured to make a decision about a PhD offer before 31st March](https://stfc.ukri.org/funding/studentships/studentship-terms-conditions-guidance/statistics-and-questionnaires/stfc-funded-phd-students/acceptance-of-phd-studentships).
+[should not be pressured to make a decision about a PhD offer before 31st March](https://www.ukri.org/what-we-do/developing-people-and-skills/stfc/training/studentship-information-for-supervisors).
 
 Once you have accepted an offer of a place, you should consider that you have made a binding commitment to take up the project and see it through to completion.
 Unless you have a truly unexpected and severe change in circumstances, it would be unethical for you to back out.
@@ -167,4 +167,4 @@ The supervisor will have made a commitment to you, and will almost certainly hav
 
 As mentioned earlier, most PhD places are filled in the spring or early summer, for an October start.
 However, sometimes funding does become available at the last minute, so a smaller number of projects will be advertised very suddenly in June-August.
-Therefore, if for whatever reason you miss the main annual application cycle, it is still work keeping a lookout all summer if you are set on PhD study.
+Therefore, if for whatever reason you miss the main annual application cycle, it is still worth keeping a lookout all summer if you are set on PhD study.

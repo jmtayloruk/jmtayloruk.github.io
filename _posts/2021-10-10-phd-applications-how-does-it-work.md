@@ -125,7 +125,8 @@ These schemes will look to support applicants with strong academic *potential*, 
 For example:
 - Students from groups under-represented in Physics can apply for the [IoP Bell Burnell scholarships](https://www.iop.org/about/support-grants/bell-burnell-fund); application deadline mid January.
 - Students from groups under-represented in Physics can apply to the [DiveIN centre for doctoral training](https://www.divein.org.uk), for an October 2025 start.
-- Black UK-domiciled students can apply for Glasgow's [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith); final application deadline 31st January. 
+- Black UK-domiciled students can apply for Glasgow's [James McCune Smith PhD Scholarships](https://www.gla.ac.uk/scholarships/mccune-smith); final application deadline 31st January.
+ 
 In addition to full funding, these schemes typically provide an enhanced experience through external mentors, placements, leadership training, community-building activities and networking opportunities.
 It is important to make early contact with a potential project supervisor, so they can work together with you and the funder to help you develop an application that tells your story effectively.
 
