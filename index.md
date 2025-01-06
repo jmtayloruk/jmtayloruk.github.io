@@ -8,7 +8,7 @@ My own research team develops novel optical microscopy techniques, with a partic
 I collaborate closely with biological researchers at a number of other universities, including Edinburgh University where I have helped them develop their heartbeat-synchronized light sheet microscope platform.
 
 You can read about my current research interests [here](/research/).
-Current and past research funding includes support from EPSRC, the British Heart Foundation, the Royal Society of Edinburgh, and BBSRC.
+Current and past research funding includes support from EPSRC, the Wellcome Trust, the British Heart Foundation, Medical Research Scotland, the Royal Society of Edinburgh, and BBSRC.
 
 [Publications list](https://scholar.google.com/citations?user=Wv6f8ncAAAAJ)
 

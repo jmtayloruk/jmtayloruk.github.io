@@ -45,6 +45,7 @@ social: # jekyll-seo-tag > social overrides
   name: Jonathan Taylor # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/jtimaging
+    - https://bsky.app/profile/jtimaging.bsky.social
     - https://github.com/jmtayloruk
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:

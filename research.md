@@ -12,8 +12,8 @@ Live organisms and cells are often moving (on various length scales), and much o
 A key highlight of my recent research is my development of [heartbeat-synchronized imaging](#motion-stabilised-imaging) to enable long-term timelapse imaging in the beating heart itself. 
 
 Some of the research questions and challenges I am currently interested in include:
-- Can we make imaging systems sufficiently motion-tolerant to permit advanced techniques such as structured illumination microscopy and 3D deconvolution *in vivo* in the beating heart?
-- Can our imaging and flow measurement tools help unravel the biomechanical coupling between heart structure, flow and electrophysiology?
+- Can we make imaging systems sufficiently motion-tolerant to permit advanced techniques such as structured illumination microscopy, FLIM-FRET and 3D deconvolution *in vivo* in the beating heart?
+- Can our imaging, force and flow measurement tools help unravel the biophysical coupling between heart structure, development, flow and electrophysiology?
 - How do we support as many labs as possible to access our advanced motion-stabilisation technologies?  
 - How can we best exploit the relationship between information, measurements and imaging?
 - How can we rethink the imaging & analysis pipeline, improving it by building in knowledge of physical models and expectation at an early stage?
@@ -40,17 +40,28 @@ More background on the biomedical motivations behind our work can be found [in t
 
 We are now seeking to maximise access to our heartbeat-synchronization technology, both through a mix of collaborations with individual research labs and through ongoing collaborations with several microscope companies. 
 
-### Measurement-driven approaches to eliminate imaging artefacts
+### Fast, widefield fluorescence lifetime imaging
 
-Some imaging techniques such as light field microscopy suffer from severe artefacts under certain circumstances, and other techniques using exotic point spread functions rely on deconvolution to recover a sharp image from raw data that does not resemble a conventional image.
-What if we could actually exploit those artefacts, in conjunction with the motion in the sample being imaged, to learn more about the motion and recover an improved image?
-We are developing new techniques to do this, by considering the whole imaging and analysis pipeline from acquisition all the way through to image-based measurements.
-Benefits include improved velocimetry, reduction of light field microscopy artefacts, and the potential to solve the problems of bias that plague brightfield-based particle image velocimetry.
-A sneak peek of this research in progress can be found [here](https://www.osapublishing.org/abstract.cfm?uri=ISA-2019-JTh3D.3)
+Fluorescence lifetime imaging (FLIM) is traditionally achieved using point-scanning microscopy techniques. 
+Exciting new [lifetime imaging camera devices](https://www.horiba.com/int/scientific/products/detail/action/show/Product/flimera-1989/)  have huge potential for fast widefield imaging,
+but scanned fluorescence imaging techniques (particularly two-photon microscopy) are poorly matched to the characteristics of a widefield FLIM camera.
+We are developing [new optical approaches](https://youtu.be/IiCKgJnZ_F4?t=2161) (more results in the pipeline - coming soon!) to enable fast, efficient two-photon FLIM.
+Further work is ongoing to tackle the challenges of imaging deeper into dynamic living tissue.
 
-Taking this measurement-driven approach to its extreme, can we take the camera out of the loop entirely?
-Can we make sophisticated image-based decisions even in scenarios where we have nowhere near enough information to reconstruct an image from our measurements?
-[The answer is yes!](https://doi.org/10.1364/COSI.2017.CTh3B.2)
+### Quantitative biophotonic measurement of dynamic intercellular forces
+
+Although fluorescence microscopy has revolutionised structural imaging, it is much harder to gain insights into the function of constituent cells in situ in a living animal, 
+and understand the forces that drive many cell behaviours.
+Two critical technological challenges must be solved: how to capture high-quality subcellular images at all in this complex, dynamic environment, 
+and how to measure the intercellular forces present. 
+Recently-emerged FLIM-FRET tension sensing probes and TCSPC array cameras hold exciting potential for tissue-scale cellular force mapping 
+in highly dynamic live environments such as the heart. 
+In a collaboration with University of Sheffield and Imperial College, we are applying these exciting new technologies to the challenging scenario 
+of measuring forces in the live beating heart, initially in zebrafish models of cardiac development.
+
+Intercellular forces are a crucial driver of embryo and organ morphogenesis, and these forces are particularly complex in highly-mobile tissue such as the beating heart. 
+It is only with the heart beating in its natural context that we can ask: what are the local intercellular forces shaping the beating heart, 
+and how do they integrate with cardiac function to ensure robust cardiac morphogenesis in the embryo? 
 
 ### Quantitative flow field measurement
 
@@ -67,13 +78,17 @@ What if we could acquire an entire 3D volume image of a microscope sample from j
 Our ongoing research into new mathematical frameworks for 3D image recovery is showing great promise for reconstructing extended objects including filament structures, blood vessel networks, and cellular organelles.
 Our ability to image a volume in a snapshot sidesteps limitations on volume acquisition rates in fluorescence microscope, opening up new possibilities for 3D imaging of fast dynamic processes. 
 
-### Fast, widefield fluorescence lifetime imaging
+### Measurement-driven approaches to eliminate imaging artefacts
 
-Fluorescence lifetime imaging (FLIM) is traditionally achieved using point-scanning microscopy techniques. 
-Exciting new [lifetime imaging camera devices](https://www.horiba.com/int/scientific/products/detail/action/show/Product/flimera-1989/)  have huge potential for fast widefield imaging,
-but scanned fluorescence imaging techniques (particularly two-photon microscopy) are poorly matched to the characteristics of a widefield FLIM camera.
-We are developing [new optical approaches](https://youtu.be/IiCKgJnZ_F4?t=2161) (more results in the pipeline - coming soon!) to enable fast, efficient two-photon FLIM.
-Further work is ongoing to tackle the challenges of imaging deeper into dynamic living tissue.
+Some imaging techniques such as light field microscopy suffer from severe artefacts under certain circumstances, and other techniques using exotic point spread functions rely on deconvolution to recover a sharp image from raw data that does not resemble a conventional image.
+What if we could actually exploit those artefacts, in conjunction with the motion in the sample being imaged, to learn more about the motion and recover an improved image?
+We are developing new techniques to do this, by considering the whole imaging and analysis pipeline from acquisition all the way through to image-based measurements.
+Benefits include improved velocimetry, reduction of light field microscopy artefacts, and the potential to solve the problems of bias that plague brightfield-based particle image velocimetry.
+A sneak peek of this research in progress can be found [here](https://www.osapublishing.org/abstract.cfm?uri=ISA-2019-JTh3D.3)
+
+Taking this measurement-driven approach to its extreme, can we take the camera out of the loop entirely?
+Can we make sophisticated image-based decisions even in scenarios where we have nowhere near enough information to reconstruct an image from our measurements?
+[The answer is yes!](https://doi.org/10.1364/COSI.2017.CTh3B.2)
 
 ### Smart microscopy
 

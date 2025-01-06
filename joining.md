@@ -14,16 +14,10 @@ image: "https://jmtayloruk.github.io/assets/img/undraw_right_direction_tge8.png"
 
 ---
 
-I am currently recruiting for **three** postdoc positions to start by January 2025 - two in advanced *in vivo* [FLIM microscopy for force measurement in the beating heart](https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=153990)
-and one in [realtime heartbeat-synchronized imaging technologies](https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=153249). Further details below.
-My biological collaborators in Edinburgh and Sheffield will also be recruiting postdocs imminently.
-
-I also always welcome expressions of interest as a mentor
-for anyone applying for a research fellowship aligned with my own [research interests](/research/).
-
 ## Prospective PhD students
 
-I normally advertise PhD projects on [findaphd.com](https://www.findaphd.com) from around November each year, but if you are interested in a particular research area where I am not advertising a specific project, let's talk about it.
+I normally advertise PhD projects on [findaphd.com](https://www.findaphd.com) from around November each year, 
+but if you are interested in a particular research area where I am not advertising a specific project, let's talk about it.
 I may have one or more fully-funded projects available in any given year.
 
 There are also various scholarship routes available for a suitably-qualified applicant.
@@ -56,6 +50,9 @@ If you want to develop your own research ideas and join my lab, please get in to
 We have previously hosted a number of research fellows, including a [Marie Curie postdoctoral fellow](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships)
 and an EPSRC Doctoral Prize Fellow.
 
+I also always welcome expressions of interest from individuals interested in applying for a research fellowship to come to Glasgow
+to work on a topic aligned with my own [research interests](/research/),
+for whom I can act as mentor. I am happy to support you in develop your fellowship proposal into the best possible pitch.
 
 #### International applicants
 
