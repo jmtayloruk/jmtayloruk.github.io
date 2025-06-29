@@ -39,9 +39,9 @@ To submit a formal PhD application to the university, [use this link](https://ww
 
 ## Prospective postdoctoral researchers
 
-I have recently recruited three postdocs - two in advanced *in vivo* FLIM microscopy for force measurement in the beating heart
-and one in realtime heartbeat-synchronized imaging technologies. I am expecting to recruit a further postdoc in the general area of *in vivo* FLIM in the coming months.
-We use cutting-edge TCSPC SPAD array imaging technologies, advanced motion-correction algorithms, and FLIM-FRET tension sensors to directly image cell-level forces in dynamic environments, 
+I have recently recruited four postdocs - three in advanced *in vivo* FLIM microscopy for force measurement in the beating heart
+and one in realtime heartbeat-synchronized imaging technologies. 
+We use cutting-edge TCSPC SPAD array imaging technologies, advanced motion-correction algorithms, and FLIM-FRET tension sensors to directly image cell-level structural time-courses and forces in dynamic environments, 
 working in a close-knit team spanning physics, biology and biophysics.
 
 I advertise funded postdoctoral vacancies on [jobs.ac.uk](https://www.jobs.ac.uk) as and when they become available.

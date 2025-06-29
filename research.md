@@ -6,21 +6,36 @@ feature_text: |
 feature_image: "/assets/img/Heart-Matters-8105676-crop-dimmed.jpg"
 ---
 
-I am a Reader in Physics at Glasgow University, leading a team of researchers embedded within the wider [Imaging Concepts Group](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/) which consists of four academic PIs.
+I am a Professor of Physics at Glasgow University, leading a team of researchers embedded within the wider [Imaging Concepts Group](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/) which consists of four academic PIs.
 My research team develops novel optical microscopy techniques, with a particular interest in the intersection of light sheet microscopy, computational imaging, and in vivo biology.
 Live organisms and cells are often moving (on various length scales), and much of our research is directed at overcoming problems caused by that motion, or developing better ways to measure it when the motion itself is of scientific interest.
 A key highlight of my recent research is my development of [heartbeat-synchronized imaging](#motion-stabilised-imaging) to enable long-term timelapse imaging in the beating heart itself. 
 
 Some of the research questions and challenges I am currently interested in include:
-- Can we make imaging systems sufficiently motion-tolerant to permit advanced techniques such as structured illumination microscopy, FLIM-FRET and 3D deconvolution *in vivo* in the beating heart?
 - Can our imaging, force and flow measurement tools help unravel the biophysical coupling between heart structure, development, flow and electrophysiology?
+- Can we make imaging systems sufficiently motion-tolerant to permit advanced techniques such as structured illumination microscopy, FLIM-FRET and 3D deconvolution *in vivo* in the beating heart?
 - How do we support as many labs as possible to access our advanced motion-stabilisation technologies?  
 - How can we best exploit the relationship between information, measurements and imaging?
 - How can we rethink the imaging & analysis pipeline, improving it by building in knowledge of physical models and expectation at an early stage?
 - What application possibilities are opened up by fast widefield fluorescence lifetime imaging camera technologies (which we have early access to)?
 
 Outside work, I enjoy spend my time exploring the mountains of Scotland on foot, and rock climbing.
-I am a volunteer member of [Lomond Mountain Rescue Team](https://www.lomondmrt.org.uk), assisting lost, ill or injured walkers and climbers in the nearby mountains.
+Since 2013 I have been a volunteer member of [Lomond Mountain Rescue Team](https://www.lomondmrt.org.uk), assisting lost, ill or injured walkers and climbers in the nearby mountains.
+
+### Quantitative biophotonic measurement of dynamic intercellular forces
+
+Although fluorescence microscopy has revolutionised structural imaging, it is much harder to gain insights into the function of constituent cells in situ in a living animal, 
+and understand the forces that drive many cell behaviours.
+Two critical technological challenges must be solved: how to capture high-quality subcellular images at all in this complex, dynamic environment, 
+and how to measure the intercellular forces present. 
+Recently-emerged FLIM-FRET tension sensing probes and TCSPC array cameras hold exciting potential for tissue-scale cellular force mapping 
+in highly dynamic live environments such as the heart. 
+In a collaboration with University of Sheffield and Imperial College, we are applying these exciting new technologies to the challenging scenario 
+of measuring forces in the live beating heart, initially in zebrafish models of cardiac development.
+
+Intercellular forces are a crucial driver of embryo and organ morphogenesis, and these forces are particularly complex in highly-mobile tissue such as the beating heart. 
+It is only with the heart beating in its natural context that we can ask: what are the local intercellular forces shaping the beating heart, 
+and how do they integrate with cardiac function to ensure robust cardiac morphogenesis in the embryo? 
 
 ### Motion-stabilised imaging
 
@@ -47,21 +62,6 @@ Exciting new [lifetime imaging camera devices](https://www.horiba.com/int/scient
 but scanned fluorescence imaging techniques (particularly two-photon microscopy) are poorly matched to the characteristics of a widefield FLIM camera.
 We are developing [new optical approaches](https://youtu.be/IiCKgJnZ_F4?t=2161) (more results in the pipeline - coming soon!) to enable fast, efficient two-photon FLIM.
 Further work is ongoing to tackle the challenges of imaging deeper into dynamic living tissue.
-
-### Quantitative biophotonic measurement of dynamic intercellular forces
-
-Although fluorescence microscopy has revolutionised structural imaging, it is much harder to gain insights into the function of constituent cells in situ in a living animal, 
-and understand the forces that drive many cell behaviours.
-Two critical technological challenges must be solved: how to capture high-quality subcellular images at all in this complex, dynamic environment, 
-and how to measure the intercellular forces present. 
-Recently-emerged FLIM-FRET tension sensing probes and TCSPC array cameras hold exciting potential for tissue-scale cellular force mapping 
-in highly dynamic live environments such as the heart. 
-In a collaboration with University of Sheffield and Imperial College, we are applying these exciting new technologies to the challenging scenario 
-of measuring forces in the live beating heart, initially in zebrafish models of cardiac development.
-
-Intercellular forces are a crucial driver of embryo and organ morphogenesis, and these forces are particularly complex in highly-mobile tissue such as the beating heart. 
-It is only with the heart beating in its natural context that we can ask: what are the local intercellular forces shaping the beating heart, 
-and how do they integrate with cardiac function to ensure robust cardiac morphogenesis in the embryo? 
 
 ### Quantitative flow field measurement
 
