@@ -3,7 +3,7 @@ title: Jonathan Taylor's personal research pages
 feature_image: "/assets/img/Heart-Matters-8105676-crop-dimmed.jpg"
 ---
 I am a Professor of Physics at Glasgow University, leading a team of researchers embedded within the wider [Imaging Concepts Group](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/).
-The Imaging Concepts Group consists of myself, Prof Andy Harvey as research group leader, Dr Caroline Muellenbroich, and Dr Johannes Courtial. 
+The Imaging Concepts Group is led by Prof Andy Harvey and also includes Dr Caroline Muellenbroich and Dr Johannes Courtial. 
 My own research team develops novel optical microscopy techniques, with a particular interest in the intersection of light sheet microscopy, computational imaging, and in vivo biology.
 I collaborate closely with biological researchers at a number of other universities, including Edinburgh University where we have collaborated to develop their heartbeat-synchronized light sheet microscope platform.
 
