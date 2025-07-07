@@ -101,3 +101,6 @@ and [foveated imaging that dynamically adapts the camera's attention to importan
 
 {% include figure.html image="/assets/img/lab-timeline.png" width="700" height="500" %}
 
+{% include figure.html image="/assets/img/2024-12-10-group-photo.jpg" width="700" height="500" %}
+
+
